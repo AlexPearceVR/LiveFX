@@ -4,10 +4,10 @@
 
 **Live FX works with Unreal Engine** in various ways, but here is the basic overview:
 
-1. Live FX takes in **Camera Tracking data.**
-2. Live FX forwards tracking information to Unreal Engine and **moves the Virtual Camera.**
-3. Unreal Engine **Texture Share SDK** is used to share the image from UE to Live FX.
-4. Live FX then uses the image with **LED and Greenscreen workflows.**
+* Live FX takes in **Camera Tracking data.**
+* Live FX forwards tracking information to Unreal Engine and **moves the Virtual Camera.**
+* Unreal Engine **Texture Share SDK** is used to share the image from UE to Live FX.
+* Live FX then uses the image with **LED and Greenscreen workflows.**
 
 Live FX implements camera tracking directly and **forwards it to Unreal Engine**, which means that even if your camera tracking solution doesn't have their own Unreal Engine plugin, or if it is outdated, it will still work as long as it is supported in Live FX.&#x20;
 
@@ -21,16 +21,7 @@ Make sure to follow each step as you go along.
 
 Currently, you must be on a **Windows machine** and use **Unreal Engine 5.3** for Live FX to work properly. There is a workaround for earlier versions of Unreal, make sure to [contact us and let us know](mailto:support@assimilate.com) if you need it.
 
-**Recommended Hardware:**
-
 ***
-
-| **Operating System**         | Windows 10 64-bit version 1909 revision .1350 or higher, or versions 2004 and 20H2 revision .789 or higher |
-| ---------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| **Processor**                | Quad-core Intel or AMD, 2.5 GHz or faster                                                                  |
-| **Memory**                   | 8 GB RAM                                                                                                   |
-| **Graphics Card**            | DirectX 11 or 12 compatible graphics card with the latest drivers                                          |
-| **Unreal Engine Version(s)** | 5.3                                                                                                        |
 
 ## 2. Download and install Live FX Plugin for Unreal Engine Plugin
 
