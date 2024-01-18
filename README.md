@@ -1,1 +1,2 @@
-# LiveFX
+# ⚡ Quickstart Example Projects
+
