@@ -1,4 +1,4 @@
-# How to set up Quasar Science lights with Live FX
+# How to set up Quasar Science lights in Live FX
 
 Watch the tutorial here:
 
@@ -6,9 +6,9 @@ Watch the tutorial here:
 
 In the video above, I show you how to set up your [Quasar Science](https://www.linkedin.com/company/quasarscience/) fixtures with [ASSIMILATE](https://www.linkedin.com/company/assimilate/) Live FX to do image-based lighting (through pixel mapping).
 
-Once it's set up, it's very easy to sample any area of your canvas and to control the brightness/intensity for each array!
+Once it's set up, it's very easy to sample any area of your canvas and to control the brightness/intensity for each array.
 
-In this article, I will cut straight to the information you need to program your lights on the fixture and in the software, watch the video for more step-by-step instruction.
+In this article, I will cut straight to the information you need to program your lights on the fixture, and in the software, watch the video for more step-by-step instructions.
 
 <figure><img src="https://media.licdn.com/dms/image/D5612AQElCjv8X9OGug/article-inline_image-shrink_1000_1488/0/1698676119806?e=1710979200&#x26;v=beta&#x26;t=mdJI_bz0ywqduHWu60GO2JfxHxTicAnVJlyD5ieJPVw" alt=""><figcaption><p>Live FX. Notice the area we are sampling is being pixel mapped correctly to the array of 47 Quasar Science fixtures!</p></figcaption></figure>
 
