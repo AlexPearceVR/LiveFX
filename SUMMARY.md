@@ -36,7 +36,7 @@
     * [Optitrack](camera-tracking/camera-trackers/optitrack.md)
     * [HTC Mars Camtrack](camera-tracking/camera-trackers/htc-mars-camtrack.md)
     * [FreeD](camera-tracking/camera-trackers/freed.md)
-  * [How to apply camera tracking to a layer, image, or mask.](camera-tracking/how-to-apply-camera-tracking-to-a-layer-image-or-mask..md)
+  * [How to apply camera tracking to a layer, image, or mask](camera-tracking/how-to-apply-camera-tracking-to-a-layer-image-or-mask.md)
   * [How to manually adjust camera tracking speed and delay](camera-tracking/how-to-manually-adjust-camera-tracking-speed-and-delay.md)
   * [How to delay the Inner Frustum](camera-tracking/how-to-delay-the-inner-frustum.md)
 * [🟩 Green Screen Workflow](green-screen-workflow/README.md)
