@@ -195,7 +195,7 @@ For small walls, sometimes this is not necessary and it's preferred to not have 
 
     \*IP can be 127.0.0.1 if using the local machine
 
-    \*If you see numbers moving at the bottom, this is set up correctly.
+    \*\*If you see numbers moving at the bottom, this is set up correctly.
 3.  If using **camera tracking**, make sure your tracking is set up correctly and that you **press “Apply”** so that it applies to your camera.\
 
 
@@ -229,6 +229,8 @@ For small walls, sometimes this is not necessary and it's preferred to not have 
 
 
     Try going to full screen with the UE scene and Alt+Tab to go back and check Assimilate.\
+    \
+    You can also [change your composition resolution](../getting-started/the-basics/change-shot-framerate-and-resolution.md) to be smaller to match your window size. \
 
 
     <figure><img src="https://lh7-us.googleusercontent.com/XtdPgu-X3SsWwuhhwUJHL2L4vHdHso3tXctGvM3Ykas2f3NI8Onzqnl1Z5RP9wfwhavjh4j57kTDAIpXyRmgncncAvFUldvn996weCef_opjyzOQvwGRAWIqB2odEY8_iBvlZp8AqolhppyN5reqM1P59Q=s2048" alt=""><figcaption><p>Notice the pixel stretching. This is when the window is not in full screen mode.</p></figcaption></figure>
