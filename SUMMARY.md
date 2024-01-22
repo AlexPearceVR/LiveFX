@@ -39,6 +39,7 @@
   * [How to apply camera tracking to a layer, image, or mask](camera-tracking/how-to-apply-camera-tracking-to-a-layer-image-or-mask.md)
   * [How to manually adjust camera tracking speed and delay](camera-tracking/how-to-manually-adjust-camera-tracking-speed-and-delay.md)
   * [How to delay the Inner Frustum](camera-tracking/how-to-delay-the-inner-frustum.md)
+  * [How to apply FIZ (Zoom and Focus) from Camera Tracking](camera-tracking/how-to-apply-fiz-zoom-and-focus-from-camera-tracking.md)
 * [🟩 Green Screen Workflow](green-screen-workflow/README.md)
   * [Qualifiers](green-screen-workflow/qualifiers.md)
 * [📺 LED Workflow](led-workflow/README.md)
