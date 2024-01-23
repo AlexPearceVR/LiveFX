@@ -51,7 +51,7 @@ Make sure your start and end universe covers your range.
 * Repeat the Universe - 47\* (This is the number of fixtures in your array)
 
 {% hint style="warning" %}
-For Double Rainbow, you need to double the Repeat the Universe and double the Segments. For example, if you have 6 fixtures, you would have Repeat the Universe as 12 and Segments as 12.
+For Double Rainbow, you need to double the number of Segments. For example, if you have 6 fixtures, you would have Repeat the Universe as 6 and Segments as 12.
 {% endhint %}
 
 <div data-full-width="true">
