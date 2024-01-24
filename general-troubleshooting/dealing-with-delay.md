@@ -19,6 +19,8 @@ If you move your camera and the inner frustum moves first and the content inside
    \
    All the rest should automatically be delayed by the same amount.&#x20;
 
+[This is also covered in the Camera Tracking section of this guide.](../camera-tracking/how-to-delay-the-inner-frustum.md)
+
 <figure><img src="https://lh7-us.googleusercontent.com/HY4WUbQrx-Orrz9BGDWXokQH2pNKKrPh8LJ1P3ukNwZ_hi_MwCOjOYIYebGh8fb9DowO_y_p4y4G9BFDg64ZFQK53vdkLjwbFnXqIEKmizK6TrD7M7FrLirQQqSt3J3b0E07o3_oOdpn8qAC__HAPH0" alt=""><figcaption></figcaption></figure>
 
 ## 2. Delay Camera Feed for Greenscreen
