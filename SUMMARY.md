@@ -45,6 +45,7 @@
 * [📺 LED Workflow](led-workflow/README.md)
   * [Setting up your LED Wall](led-workflow/setting-up-your-led-wall.md)
   * [Stage Manager](led-workflow/stage-manager.md)
+  * [How to make the inner frustum green](led-workflow/how-to-make-the-inner-frustum-green.md)
 * [💡 Image-Based Lighting](image-based-lighting/README.md)
   * [Getting started with Image Based Lighting](image-based-lighting/getting-started-with-image-based-lighting.md)
   * [How to set up Quasar Science lights in Live FX](image-based-lighting/how-to-set-up-quasar-science-lights-in-live-fx.md)
