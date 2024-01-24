@@ -71,5 +71,5 @@
 * [General Troubleshooting](general-troubleshooting/README.md)
   * [📰 Licensing the Software](general-troubleshooting/licensing-the-software.md)
   * [🕙 Dealing with Delay](general-troubleshooting/dealing-with-delay.md)
-  * [Networking Tips](general-troubleshooting/networking-tips.md)
+  * [🖥 Networking Tips](general-troubleshooting/networking-tips.md)
 * [User Guide (Old)](user-guide-old.md)

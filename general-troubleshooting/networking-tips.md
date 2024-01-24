@@ -1,4 +1,4 @@
-# Networking Tips
+# 🖥 Networking Tips
 
 ## How to ping a device on the network
 
