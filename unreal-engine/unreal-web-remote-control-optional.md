@@ -18,8 +18,13 @@ For more information on Web Remote Control, visit the documentation:\
 ## 1. Install Web Remote Control
 
 1. **Go to Plugins** and search for Remote Control. &#x20;
-2. Enable the plugins **Remote Control API and Remote Control Web Interface** (built-in).&#x20;
-3. **Restart** Unreal Engine.
+2. Enable the plugin, **Remote Control API** (built-in).
+3. Enable the plugin, **Remote Control Web Interface** (built-in).&#x20;
+4. **Restart** Unreal Engine.
+
+{% hint style="danger" %}
+You must enable both plugins for it to work properly!
+{% endhint %}
 
 <figure><img src="https://lh7-us.googleusercontent.com/FMsTbKFmhFuEfU-fGReFW9qEz5Lh9merWGPdf3tAjVtfowypIra_EfgVVN9NE7TsyVXERbmqtLZDziDvEwivtsDUHkLGR6VozgLr_8N9oMm7lnF6qUE5oC96AOqu6S6UwqfSJFTkz4j1QRoAnkT8yApSQA=s2048" alt=""><figcaption></figcaption></figure>
 
