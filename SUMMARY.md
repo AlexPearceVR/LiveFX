@@ -1,6 +1,7 @@
 # Table of contents
 
 * [⚡ Quickstart Example Projects](README.md)
+  * [Simple Video Playback](quickstart-example-projects/simple-video-playback.md)
   * [Green Screen with 360 Background](quickstart-example-projects/green-screen-with-360-background.md)
   * [LED Wall - Projection Mapping](quickstart-example-projects/led-wall-projection-mapping.md)
   * [LED Wall - Without Projection Mapping](quickstart-example-projects/led-wall-without-projection-mapping.md)
