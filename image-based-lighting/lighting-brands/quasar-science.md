@@ -1,4 +1,6 @@
-# How to set up Quasar Science lights in Live FX
+# Quasar Science
+
+## How to set up Quasar Science lights in Live FX
 
 Watch the tutorial here:
 
@@ -78,15 +80,15 @@ Global Channels will not show up until you change the "**Repeat in Universe**" t
 
 6. On the **Color Sampling tab**, change the Sample grid to Distribute and the segments should be the number of fixtures in your array, in my case, 47.
 
-<figure><img src="../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (103).png" alt=""><figcaption><p>Don't forget to change the Sample Grid to Distribute and put as many segments as you have fixtures in your array!</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (103).png" alt=""><figcaption><p>Don't forget to change the Sample Grid to Distribute and put as many segments as you have fixtures in your array!</p></figcaption></figure>
 
 Once you've set up your fixture, you can duplicate this fixture (see top left of photo below) or you can export your entire setup using the export button (see bottom left of picture below).
 
 I use the export feature to save my entire stage layout, over 150 fixtures!
 
-<figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
 
 \
 Tags:
