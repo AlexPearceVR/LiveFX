@@ -1,5 +1,23 @@
 # How to Package an Unreal Engine Project for Live FX
 
+## Package Project
+
+Packaging a project is the same thing as building a game.&#x20;
+
+{% hint style="warning" %}
+The first time you package your project, it has to cook everything and it usually takes a long time, but after the first successful build, it usually takes a fraction of the time. For example, it might take 30 minutes to build the first time, and 2 minutes to build the second time.
+{% endhint %}
+
+{% hint style="info" %}
+Some errors you get may be due to plugins that are enabled and do not need to be packaged. For example, I had Nvidia's OptiX denoiser and I got an error that stated&#x20;
+{% endhint %}
+
+To package your project, go to **`Platforms>Windows>Package Project.`**
+
+Navigate to a folder where you want it to go and press accept.
+
+<figure><img src="../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
+
 ## Copy Webapp into Packaged Project
 
 For web remote to work correctly, you need to copy over a specific folder and create a specific folder structure in the built folder.&#x20;
