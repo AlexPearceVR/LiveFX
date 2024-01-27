@@ -19,7 +19,7 @@ To navigate around Perspective view, use Left Click + drag to orbit around the s
 
 In the example below, the orange Square shows where it is overlaid in the Perspective View (left) and how it looks in the composite (right)
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

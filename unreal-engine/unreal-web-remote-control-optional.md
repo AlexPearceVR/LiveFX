@@ -46,7 +46,7 @@ This is important if you want to package your project later.
 3. Double-click on the newly created **Remote Control Preset**. \
    This **opens a new window** and now, an eyeball icon<img src="../.gitbook/assets/image (18).png" alt="" data-size="line"> shows up next to any items that you can remotely control in the outliner.\
    \
-   :information\_source: A closed eyeball icon <img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt="" data-size="line"> means that this parameter is not exposed in your Web Remote Control.  An open eyeball icon <img src="../.gitbook/assets/image (18).png" alt="" data-size="line"> means that this parameter is exposed, and you can control it.
+   :information\_source: A closed eyeball icon <img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" data-size="line"> means that this parameter is not exposed in your Web Remote Control.  An open eyeball icon <img src="../.gitbook/assets/image (18).png" alt="" data-size="line"> means that this parameter is exposed, and you can control it.
 
 <figure><img src="https://lh7-us.googleusercontent.com/v_D8b6UZVujzZFBBbfCRoY6RsOjLNyiiNjeR4jQOpqZhUbBWHVG2F9rWMuaUfp2luwQy2AJZ_yvamvGRbjQjdqkZMKW18vGlBQFsmkiXU96-L5wdmATbtcQXWW_oNevMXvg2kPyNA-ACzBbLhk7OAj07BQ=s2048" alt=""><figcaption></figcaption></figure>
 
@@ -93,3 +93,9 @@ This is important if you want to package your project later.
 If you have a compatible iPhone or iPad and are connected to the **same network** as your Unreal Engine machine, you can use the application from the **App Store**:\
 \
 [https://apps.apple.com/us/app/unreal-remote-2/id1374517532](https://apps.apple.com/us/app/unreal-remote-2/id1374517532)
+
+
+
+## 5. Copy Webapp into Executable
+
+If you are planning on using the Remote Control with an executable, [make sure to follow these steps at this link. ](unreal-web-remote-control-optional.md#id-5.-copy-webapp-into-executable)
