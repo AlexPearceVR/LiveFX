@@ -6,7 +6,11 @@ The Live FX/Unreal Engine workflow allows you to **build your Unreal Engine Proj
 
 This means that if you plan ahead and [package your project](../unreal-engine/how-to-package-an-unreal-engine-project-for-live-fx.md), your Unreal Project can work **without Unreal Engine even installed** on the host machine, complete with camera tracking, projection mapping, and Web Remote Control if you need it!&#x20;
 
-If you want to follow along with this example, you do not need to have Unreal Engine installed, just a windows computer with Live FX already installed and set up.
+If you want to follow along with this example, you do not need to have Unreal Engine installed, just a Windows computer with Live FX already installed and set up.
+
+Here is a complete video walkthrough:
+
+{% embed url="https://youtu.be/gBtlxkdA36U" %}
 
 ## 1. Download Example Packaged Project
 
@@ -63,7 +67,35 @@ IF YOU ARE RENDERING OFFSCREEN, YOU WILL NOT SEE THE EXPERIENCE LAUNCH, PRESS **
 
 Now open the **shortcut**, if rendering offscreen you will not see it, **but Live FX will**.&#x20;
 
-## 4. Set up Unreal Live Link
+## 4a. Green Screen Setup
+
+There are a few different ways we can set up a shot with Unreal in the background.&#x20;
+
+If using an LED Wall, skip to the next section, [Projection Setup](packaged-unreal-engine-project-example.md#id-4b.-projection-setup)
+
+If you are using a Green Screen workflow, go to the construct press the Live Setup button, and **choose Green screen with Unreal background for the Model.**
+
+Under Unreal Capture, select **Unreal Texture Share.**
+
+<figure><img src="../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
+
+## 4b. Projection Setup
+
+From the construct select **Projection Setup**, under Project Media, select **Unreal Texture Share.**&#x20;
+
+Then follow whatever projection mapping methods you normally use.
+
+<figure><img src="../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
+
+## 4c. Basic Capture
+
+If you want to play the UE project on the wall, but skip the Projection mapping workflow, you can just click Live Setup, then Basic Capture, and under Foreground / Camera, choose Unreal Texture Share.
+
+For this tutorial, I will use this last option, Basic Capture, but the next steps are the same, regardless of your setup.
+
+<figure><img src="../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
+
+## 5. Set up Unreal Live Link
 
 1.  Click on the **Live FX** menu, then click on the **Live Links** Menu.\
 
@@ -75,13 +107,15 @@ Now open the **shortcut**, if rendering offscreen you will not see it, **but Liv
     (Optional) Click Broadcast.
 
     **Click Connect.**\
+    \
+    If you see numbers moving at the bottom, this is set up correctly.\
 
 
     <figure><img src="../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 
-    \*IP can be 127.0.0.1 if using the local machine
-
-    \*\*If you see numbers moving at the bottom, this is set up correctly.
+    IP can be 127.0.0.1 if using the local machine\
+    \
+    The Port should remain 9001.
 3.  If using **camera tracking**, make sure your tracking is set up correctly and that you **press “Apply”** so that it applies to your camera.\
     \
 
@@ -89,45 +123,12 @@ Now open the **shortcut**, if rendering offscreen you will not see it, **but Liv
     <figure><img src="../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
 
 
-4.  If you are using Camera tracking, make sure it's turned on and applied to the camera.\
-    \
-    If **not** using camera tracking, go to the **Camera tab and press “Active”**
+4.  If **not** using camera tracking, go to the **Camera tab and press “Active”**
 
-    You can manually move the camera in UE, by changing the values.\
+    You can manually move the camera in UE, by changing the Tracker / Animation values.\
 
 
     <figure><img src="../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
-
-
-
-## 5. Create a shot with the Unreal Texture Share Plugin
-
-There are a few different ways we can set up a shot with Unreal in the background.&#x20;
-
-If you are using Green screen or LED workflow already, you can use your normal Live or Projection setup, just using Unreal as your Live Capture source in the pop-up.&#x20;
-
-<figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
-
-In this example, I'll manually add the Unreal Layer.
-
-1.  From the Construct, click on Filler and choose Black.\
-
-
-    <figure><img src="../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
-
-
-2.  With the new Layer selected, on the bottom left, go to **“Plug-Ins”.**\
-
-
-    <figure><img src="../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
-
-
-3.  Select **“Unreal Texture Share”** and **Apply on Layer.**\
-
-
-    <figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
-
-    <figure><img src="../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
 
 We can see from the screenshot below that we’ve set everything up correctly because we see the Watertower demo in the viewport (through the Unreal Texture Share layer), the Live Link has a frame counter, **counting frames** below the Scale in the Unreal Live Link window. \
 
@@ -135,8 +136,6 @@ We can see from the screenshot below that we’ve set everything up correctly be
 In the **Camera tab**, the camera is active and if I pan, it moves the Unreal Engine camera. If you have camera tracking enabled, when you move the camera, it should move correctly.&#x20;
 
 <figure><img src="https://lh7-us.googleusercontent.com/8IHYVi_4BqtN2FYJGZ90KKZPGlMv7hNlR_T4ygXFsM8ZGoQtbFX-CvxQi36sDsFVuAraTU5q_KqD59FUgbgz05z-TrB8dSdfQoLsUS__Xl_cW4moXxZXwPlE77eUIVzsZrGQ1pHmFQF7auq5yFPqNng" alt=""><figcaption></figcaption></figure>
-
-
 
 ## 6. Web Remote Control&#x20;
 
@@ -150,3 +149,4 @@ Open a browser and enter **“localhost:30000”**
 You should see this window above and be able to control the time of day, and cloud coverage as well as many other parts of the Unreal Engine scene, in this example **I changed the time to 1800 (6pm).**&#x20;
 
 <figure><img src="https://lh7-us.googleusercontent.com/6Oi0qliYhsQx0dSEI_4AwS-sfibaSiMi_72wBduGDI-q5A09KtQyYjMoP171acmW5o1L_6KoSnE5kZKqeFyVdRy1YZ4TTctBXcAkY7AwiY4i6tJ_EN-wDLSgWgVtNm7uhfmYW_mDpN5fNtYKoXItF1Q" alt=""><figcaption></figcaption></figure>
+
