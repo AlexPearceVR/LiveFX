@@ -2,11 +2,13 @@
 
 ## Overview
 
-The Live FX/Unreal Engine workflow allows for you to **build your Unreal Engine Projects to a game,** that can exist as an .exe file.&#x20;
+The Live FX/Unreal Engine workflow allows you to **build your Unreal Engine Projects to a game,** that can exist as an .exe file.&#x20;
 
-This means that if you plan ahead and do this method, your Unreal Project can **without Unreal Engine even installed** on the host machine, complete with camera tracking, projection mapping, and Web Remote Control if you need it!&#x20;
+This means that if you plan ahead and [package your project](how-to-package-an-unreal-engine-project-for-live-fx.md), your Unreal Project can work **without Unreal Engine even installed** on the host machine, complete with camera tracking, projection mapping, and Web Remote Control if you need it!&#x20;
 
-## Example Packaged Project
+If you want to follow along with this example, you do not need to have Unreal Engine installed, just a windows computer with Live FX already installed and set up.
+
+## 1. Download Example Packaged Project
 
 Here is a demo exe file:\
 [https://www.dropbox.com/scl/fi/tfnwx5b8hkuy4cavxd4ku/WaterTower\_v2.zip?rlkey=fshkrjb1sw8h2c5a8sjvoj4if\&dl=0](https://www.dropbox.com/scl/fi/tfnwx5b8hkuy4cavxd4ku/WaterTower\_v2.zip?rlkey=fshkrjb1sw8h2c5a8sjvoj4if\&dl=0)
@@ -16,21 +18,21 @@ Download the .zip folder above.&#x20;
 ![](https://lh7-us.googleusercontent.com/GhJiYiWhsh3NkATbQJxjsJ7FOYUsx\_Z5yO55Bu9zAy6vXMl06xBIYd0PF2r8LNrn7GDk9p8koO21K0ttdGDa-bTchBJ4e0xyVDptlf3t5l438qaNJfGQ1TbezJB7wIUqVrxmQEcv\_2JqtPss004mto4)![](https://lh7-us.googleusercontent.com/kGL5Y0PYLE9o4NThdA28x058K-6n8-RDdvMsrSKKzuz0VAyOJzJlaMfIyLarDqhzKxHxjWCH6a0\_kRZo8MbDInq6S7gT99YW\_5NrKqO0rRAie00F9SzXBWpdjE0lmTPYSrecMpQqPprCoPbSObX5SR8)
 
 {% hint style="warning" %}
-EXTRACT WITH A TOOL LIKE 7 ZIP! The default Windows tool gives an error when trying to unzip large files.
+EXTRACT WITH A TOOL LIKE 7 ZIP! The default Windows tool sometimes gives an error when trying to unzip large files.
 {% endhint %}
 
 In the folder structure, you will find the project “BH\_Project.exe”.&#x20;
 
-If you open this, it will launch a full-screen game, but for it to work properly we’ll have to **pass some command line arguments in.**
+If you open this, it will launch a full-screen game, but for it to work properly we’ll have to create a shortcut and **pass some command line arguments in.**
 
-If you’re on Windows 10, the BH\_Project.exe - Shortcut, should open properly, if you are on Windows 11, you’ll need to make your own shortcut, with the arguments.
+Even if there is a shortcut provided, you will likely need to make your own shortcut for this to work properly.
 
-![](https://lh7-us.googleusercontent.com/7M1tZWQjKKq66W3-0EWqADdloiVPQ6VoO4-VL-hAiwwSaS49-xYExfvVr-0pec6LfhIzTH3CdxL0mlXOk4\_qwAx0c6R2erxFRE3mNagctBNC2J6oNYojxBMHGjfottlvUVL3i-mFIOB81kcQg-tvRY4)\
+\
 
 
-## Adding Command Line Arguments
+<figure><img src="https://lh7-us.googleusercontent.com/7M1tZWQjKKq66W3-0EWqADdloiVPQ6VoO4-VL-hAiwwSaS49-xYExfvVr-0pec6LfhIzTH3CdxL0mlXOk4_qwAx0c6R2erxFRE3mNagctBNC2J6oNYojxBMHGjfottlvUVL3i-mFIOB81kcQg-tvRY4" alt=""><figcaption></figcaption></figure>
 
-To add command line arguments:
+## 2. Create a shortcut
 
 1. Right-click on the BH\_Project.exe, and go to **Create shortcut.**
 
@@ -42,31 +44,101 @@ I’ve renamed the shortcut to “**OnScreen1920x1080**”
 
 ![](https://lh7-us.googleusercontent.com/Q7EVFiQIzghzeuWfx\_-2LFPd\_wL5nPFTrjUKW8OVFCYwaTtp8UZpGKqXk0CA2jqTJPqyxPNjw0gIKoc6Q\_TDM-AiNXXNLmO7xgR45on48x53irZughNvgh8qb8oKD-d7WogGLVgY1dPHniFKbYcc0Bk)
 
-3. Paste these in the **target** field, after “...exe”, with one space after (with or without -RenderOffscreen, if you want to be able to see it or not).\
+3. Paste these in the **target** field, after “...exe”, with one space after the end (with or without -RenderOffscreen, if you want to be able to see it or not).\
    \
    Text to copy and paste:\
    **-RenderOffscreen -ForceRes -ResX=1920 -ResY=1080 -RCWebControlEnable -RCWebInterfaceEnable**\
    \
    Should look like this:\
    ![](https://lh7-us.googleusercontent.com/wHpA5cBq7rQlfq8DxcrDcz8zVKW-R6VQQKYiTSN2JhrdwtLXvQjd87HwovQl8wSFlnNn--dcUcK0pC2SMBDVNMfugLMRWW87aP7y4hWG8aOiK37v2mJ9j9XR2ilML2JN59fQc3ndxXdNCousI9RYClw)
-4. You should enter the resolution of your LED wall, or your monitor, as you want. So if your wall is 2560x1320, you’d put **“-ForceRes -ResX=2560 -ResY=1320”** where it’s appropriate.
+4. You should enter the resolution of your LED wall, or your monitor, as you want. So if your wall is 2560x1320, you’d put **“-ForceRes -ResX=2560 -ResY=1320”** where it’s appropriate.\
+   \
+   And you would likely want to [change your timeline resolution](../getting-started/the-basics/change-shot-framerate-and-resolution.md) to match this setting as well.&#x20;
 
 {% hint style="danger" %}
 IF YOU ARE RENDERING OFFSCREEN, YOU WILL NOT SEE THE EXPERIENCE LAUNCH, PRESS **CONTROL+ALT+DELETE** TO SEE IT AND TO CLOSE IT.
 {% endhint %}
 
-## Open the Example Project
+## 3. Open the Example Project
 
-Now open the **shortcut**, if rendering offscreen you will not see it, **but Live FX will**. \
-Follow the direction to [set up Unreal Engine Texture Share in Live FX](set-up-unreal-engine-with-live-fx.md).
+Now open the **shortcut**, if rendering offscreen you will not see it, **but Live FX will**.&#x20;
 
-<figure><img src="https://lh7-us.googleusercontent.com/8IHYVi_4BqtN2FYJGZ90KKZPGlMv7hNlR_T4ygXFsM8ZGoQtbFX-CvxQi36sDsFVuAraTU5q_KqD59FUgbgz05z-TrB8dSdfQoLsUS__Xl_cW4moXxZXwPlE77eUIVzsZrGQ1pHmFQF7auq5yFPqNng" alt=""><figcaption></figcaption></figure>
+## 4. Set up Unreal Live Link
 
-We can see from the screenshot above that we’ve set everything up correctly because we see the Watertower demo in the viewport (through the Unreal Texture Share layer), the Live Link has a frame counter, **counting frames** below the Scale in the Unreal Live Link window.&#x20;
+1.  Click on the **Live FX** menu, then click on the **Live Links** Menu.\
+
+
+    <figure><img src="../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+2.  Click on **Unreal Live Link.**\
+    **Press On.**
+
+    (Optional) Click Broadcast.
+
+    **Click Connect.**\
+
+
+    <figure><img src="../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
+
+    \*IP can be 127.0.0.1 if using the local machine
+
+    \*\*If you see numbers moving at the bottom, this is set up correctly.
+3.  If using **camera tracking**, make sure your tracking is set up correctly and that you **press “Apply”** so that it applies to your camera.\
+    \
+
+
+    <figure><img src="../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+
+
+4.  If you are using Camera tracking, make sure it's turned on and applied to the camera.\
+    \
+    If **not** using camera tracking, go to the **Camera tab and press “Active”**
+
+    You can manually move the camera in UE, by changing the values.\
+
+
+    <figure><img src="../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
+
+
+
+## 5. Create a shot with the Unreal Texture Share Plugin
+
+There are a few different ways we can set up a shot with Unreal in the background.&#x20;
+
+If you are using Green screen or LED workflow already, you can use your normal Live or Projection setup, just using Unreal as your Live Capture source in the pop-up.&#x20;
+
+<figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
+
+In this example, I'll manually add the Unreal Layer.
+
+1.  From the Construct, click on Filler and choose Black.\
+
+
+    <figure><img src="../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
+
+
+2.  With the new Layer selected, on the bottom left, go to **“Plug-Ins”.**\
+
+
+    <figure><img src="../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
+
+
+3.  Select **“Unreal Texture Share”** and **Apply on Layer.**\
+
+
+    <figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
+
+    <figure><img src="../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
+
+We can see from the screenshot below that we’ve set everything up correctly because we see the Watertower demo in the viewport (through the Unreal Texture Share layer), the Live Link has a frame counter, **counting frames** below the Scale in the Unreal Live Link window. \
+
 
 In the **Camera tab**, the camera is active and if I pan, it moves the Unreal Engine camera. If you have camera tracking enabled, when you move the camera, it should move correctly.&#x20;
 
-## Using Web Remote Control&#x20;
+<figure><img src="https://lh7-us.googleusercontent.com/8IHYVi_4BqtN2FYJGZ90KKZPGlMv7hNlR_T4ygXFsM8ZGoQtbFX-CvxQi36sDsFVuAraTU5q_KqD59FUgbgz05z-TrB8dSdfQoLsUS__Xl_cW4moXxZXwPlE77eUIVzsZrGQ1pHmFQF7auq5yFPqNng" alt=""><figcaption></figcaption></figure>
+
+
+
+## 6. Web Remote Control&#x20;
 
 With the WaterTower demo working, and if you passed the\
 &#x20;**-RCWebControlEnable -RCWebInterfaceEnable** flags in the shortcut link before you launched it, you should now be able to **control** certain aspects of the Unreal Engine scene.
