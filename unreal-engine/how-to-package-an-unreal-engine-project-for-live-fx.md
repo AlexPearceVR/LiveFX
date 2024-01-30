@@ -18,6 +18,12 @@ Navigate to a folder where you want it to go and press accept.
 
 <figure><img src="../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
 
+## Change game mode Default Pawn to none
+
+If you don't do this, then when the camera is not moving for 5 minutes or so, it will jump out of the camera and won't allow you to move the camera anymore.&#x20;
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ## Copy Webapp into Packaged Project
 
 For web remote to work correctly, you need to copy over a specific folder and create a specific folder structure in the built folder.&#x20;
@@ -33,7 +39,7 @@ For web remote to work correctly, you need to copy over a specific folder and cr
 5. **Paste** the **WebApp** folder here.&#x20;
 6. Check and make sure your paths and folders look correct, if done correctly it should look like this:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Change Project Name
 
