@@ -150,3 +150,12 @@ You should see this window above and be able to control the time of day, and clo
 
 <figure><img src="https://lh7-us.googleusercontent.com/6Oi0qliYhsQx0dSEI_4AwS-sfibaSiMi_72wBduGDI-q5A09KtQyYjMoP171acmW5o1L_6KoSnE5kZKqeFyVdRy1YZ4TTctBXcAkY7AwiY4i6tJ_EN-wDLSgWgVtNm7uhfmYW_mDpN5fNtYKoXItF1Q" alt=""><figcaption></figcaption></figure>
 
+## 7. iPad and iPhone wireless monitor
+
+You can use the Unreal Engine Remote app with the packaged project, to use as a wireless monitor of just the Unreal scene. This can work with multiple devices, doesn't affect the performance of the host machine, and is NOT synced to the host machine.&#x20;
+
+1. Download the [Unreal Remote 2 app](https://apps.apple.com/us/app/unreal-remote-2/id1374517532).
+2. Make sure the host computer and the iPhone are on the same wireless network.&#x20;
+3. On the iPad or iPhone, open the app and enter the ip address of the host computer. \
+   \
+   You can find the ip address on the host machine by opening command prompt and use the command ipconfig to see the ip address(es).&#x20;
