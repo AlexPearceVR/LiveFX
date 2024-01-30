@@ -34,3 +34,9 @@ For web remote to work correctly, you need to copy over a specific folder and cr
 6. Check and make sure your paths and folders look correct, if done correctly it should look like this:
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+## Change Project Name
+
+To change the project name (what shows up when you open the Task Manager), you can go to the DefaultGame.ini file and rename the "ProjectName" to what you want.
+
+<figure><img src="../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
