@@ -4,7 +4,7 @@ First, you'll need to make sure your computer with Live FX is connected to the s
 
 1.  Open Assimilate and click on the **Live Looks** button on the left.&#x20;
 
-    <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 2.  Enter the Setup menu on the left.
 
     <figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
