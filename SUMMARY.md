@@ -28,6 +28,7 @@
   * [The Basics](getting-started/the-basics/README.md)
     * [Project Settings](getting-started/the-basics/project-settings.md)
     * [Change Shot Framerate and Resolution](getting-started/the-basics/change-shot-framerate-and-resolution.md)
+    * [Timecode](getting-started/the-basics/timecode.md)
   * [Helpful Links](getting-started/helpful-links.md)
 * [🎥 Camera Tracking](camera-tracking/README.md)
   * [Camera and Lens Calibration](camera-tracking/camera-and-lens-calibration.md)
