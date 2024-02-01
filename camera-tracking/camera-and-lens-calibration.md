@@ -1,5 +1,7 @@
 # Camera and Lens Calibration
 
+{% embed url="https://player.vimeo.com/video/727369885" %}
+
 Currently, Live FX can only work with Prime Lenses or at fixed focal length for calibration.&#x20;
 
 For example, if using an 18-55mm Zoom lens. You could calibrate it at 18mm, 24mm, 35mm, and 50mm, but it cannot dynamically change as you zoom.
@@ -20,7 +22,7 @@ Change your focal length to the lens size that you are using on your camera.
 
 If you do enter your sensor size, you have to make sure the aspect ratio and crop factor are correct.
 
-What you see in your camera viewfinder should be the same in Live FX, and no cropping or scaling is happening.
+What you see in your camera viewfinder should be the same in Live FX with no cropping or scaling.
 
 {% hint style="info" %}
 It's important that after you do your calibration, the focal length in the Live FX Camera is very close to or the same as the physical lens on your camera.&#x20;
@@ -33,7 +35,7 @@ If entering in sensor size, **make sure to get the correct sensor size and crop*
 
 For example, Red Cameras:
 
-At 6k 16:9 the crop factor is 1.49x and the Focal Lenth is 35.7.\
+At 6k 16:9 the crop factor is 1.49x and the Focal Length is 35.7.\
 At 6k 17:9 the crop factor is 1.42 and the Focal Length is 34mm.
 {% endhint %}
 
