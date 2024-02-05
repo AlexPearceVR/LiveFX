@@ -5,7 +5,7 @@
 Getting up and running takes just three easy steps:
 
 1. [Buy a license from the store](https://store2.assimilateinc.com/) or [Sign up for a trial](https://register.assimilateinc.com/registration.aspx) to receive your trial license.
-2. [Download and Install the software. ](https://www.assimilatesupport.com/akb/DownloadsCategory165.aspx)
+2. Download and Install the software.&#x20;
 3. Activate the license key that you received in your email, and paste it into Assimilate the first time you open the program.
 
 {% hint style="info" %}

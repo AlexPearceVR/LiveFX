@@ -56,6 +56,7 @@
     * [Kinoflo](lighting/lighting-brands/kinoflo/README.md)
       * [Freestyle](lighting/lighting-brands/kinoflo/freestyle.md)
     * [Quasar Science](lighting/lighting-brands/quasar-science.md)
+    * [Prolycht](lighting/lighting-brands/prolycht.md)
   * [How to Sample Multiple Video Sources through Videowall](lighting/how-to-sample-multiple-video-sources-through-videowall.md)
 * [🎮 Unreal Engine](unreal-engine/README.md)
   * [Set up Unreal Engine with Live FX](unreal-engine/set-up-unreal-engine-with-live-fx.md)

@@ -8,7 +8,7 @@ There are two main areas to make adjustments.&#x20;
 
 The Live Links menu. Go to Live FX Menu, then Live Links and pull up the camera tracker you want to adjust, in this example, Ncam.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Here you adjust a few things mostly related to delaying or smoothing the tracking data coming into your machine.&#x20;
 
@@ -16,7 +16,7 @@ Here you adjust a few things mostly related to delaying or smoothing the trackin
 
 For more advanced adjustments, you can navigate to the **Animate** button above the Live FX menu and select the **Live Links** tab.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>The Animate Button, with the Live Links tab selected gives you more options to edit your camera tracking.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>The Animate Button, with the Live Links tab selected gives you more options to edit your camera tracking.</p></figcaption></figure>
 
 Then select the parameters you want to adjust and make your adjustments.&#x20;
 

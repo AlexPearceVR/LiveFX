@@ -15,7 +15,7 @@ To install the license, copy the license key you received and paste it into the 
 3.  Open the License tab on the right.\
 
 
-    <figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 4.  Paste your license into the **Product Key** area and press **Activate**. \
