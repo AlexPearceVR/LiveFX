@@ -2,7 +2,7 @@
 
 To change your user settings, when you first open Assimilate, at the bottom left, click on "User Settings".&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (75).png" alt="" width="309"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (75) (1).png" alt="" width="309"><figcaption></figcaption></figure>
 
 ***
 

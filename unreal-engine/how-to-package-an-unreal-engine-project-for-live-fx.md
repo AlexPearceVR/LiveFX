@@ -1,5 +1,7 @@
 # How to Package an Unreal Engine Project for Live FX
 
+##
+
 ## Package Project
 
 Packaging a project is the same thing as building a game.&#x20;
@@ -43,10 +45,23 @@ For web remote to work correctly, you need to copy over a specific folder and cr
 5. **Paste** the **WebApp** folder here.&#x20;
 6. Check and make sure your paths and folders look correct, if done correctly it should look like this:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Change Project Name
 
 To change the project name (what shows up when you open the Task Manager), you can go to the DefaultGame.ini file and rename the "ProjectName" to what you want.
 
 <figure><img src="../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
+
+## Working with Sequencer
+
+To start an animation sequence at the start, and to have it loop 999 times, set up your Level Blueprint like this:\
+
+
+<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+To break out the settings, right-click on the Settings pin and select "Split Struct Pin".![](../.gitbook/assets/image.png)\
+
+{% endhint %}
+
