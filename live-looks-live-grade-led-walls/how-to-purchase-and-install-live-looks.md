@@ -15,7 +15,7 @@ To install the license, copy the license key you received and paste it into the 
 3.  Open the License tab on the right.\
 
 
-    <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 4.  Paste your license into the **Product Key** area and press **Activate**. \
@@ -24,7 +24,7 @@ To install the license, copy the license key you received and paste it into the 
 
 
 
-    <figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 5. Restart Assimilate.
 6.  If Live Looks was installed correctly, you will see a new tab on the left of the opening screen that says **Live Looks**. \
 

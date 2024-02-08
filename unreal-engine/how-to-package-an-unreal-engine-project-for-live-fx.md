@@ -1,7 +1,5 @@
 # How to Package an Unreal Engine Project for Live FX
 
-##
-
 ## Package Project
 
 Packaging a project is the same thing as building a game.&#x20;
@@ -24,7 +22,7 @@ Navigate to a folder where you want it to go and press accept.
 
 If you don't do this, then when the camera is not moving for 5 minutes or so, it will jump out of the camera and won't allow you to move the camera anymore.&#x20;
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Enable Remote Session
 
@@ -45,7 +43,7 @@ For web remote to work correctly, you need to copy over a specific folder and cr
 5. **Paste** the **WebApp** folder here.&#x20;
 6. Check and make sure your paths and folders look correct, if done correctly it should look like this:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Change Project Name
 
@@ -61,7 +59,7 @@ To start an animation sequence at the start, and to have it loop 999 times, set 
 <figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-To break out the settings, right-click on the Settings pin and select "Split Struct Pin".![](../.gitbook/assets/image.png)\
+To break out the settings, right-click on the Settings pin and select "Split Struct Pin".![](<../.gitbook/assets/image (12).png>)\
 
 {% endhint %}
 
