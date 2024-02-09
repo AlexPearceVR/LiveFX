@@ -55,9 +55,16 @@ I’ve renamed the shortcut to “**OnScreen1920x1080**”
    \
    Should look like this:\
    ![](https://lh7-us.googleusercontent.com/wHpA5cBq7rQlfq8DxcrDcz8zVKW-R6VQQKYiTSN2JhrdwtLXvQjd87HwovQl8wSFlnNn--dcUcK0pC2SMBDVNMfugLMRWW87aP7y4hWG8aOiK37v2mJ9j9XR2ilML2JN59fQc3ndxXdNCousI9RYClw)
-4. You should enter the resolution of your LED wall, or your monitor, as you want. So if your wall is 2560x1320, you’d put “-ForceRes -ResX=2560 -ResY=1320” where it’s appropriate.\
+4. If you are using **projection mapping**, you should use a resolution that is the same aspect of your camera and what you want to render, for example, if you want to project 1920x1080 you'd use:\
+   \-ForceRes -ResX=1920 -ResY=1080\
    \
-   And you would likely want to [change your timeline resolution](../getting-started/the-basics/change-shot-framerate-and-resolution.md) to match this setting as well.&#x20;
+   If you are **NOT using projection mapping**, you should enter the resolution of your LED wall, or your monitor, as you want. So if your wall is 2560x1320, you’d use: \
+   \-ForceRes -ResX=2560 -ResY=1320\
+   \
+   And you would likely want to [change your timeline resolution](../getting-started/the-basics/change-shot-framerate-and-resolution.md) to match this setting as well. \
+   \
+   Whatever frame rate you are shooting in, your timeline should match and you should set that in your console variables, for example if you are shooting in 59.94, you would use:\
+   \-t.MaxFPS = 59.94
 
 {% hint style="danger" %}
 IF YOU ARE RENDERING OFFSCREEN, YOU WILL NOT SEE THE EXPERIENCE LAUNCH, PRESS **CONTROL+ALT+DELETE** TO SEE IT AND TO CLOSE IT.
@@ -89,7 +96,7 @@ Then follow whatever projection mapping methods you normally use.
 
 ## 4c. Basic Capture
 
-If you want to play the UE project on the wall, but skip the Projection mapping workflow, you can just click Live Setup, then Basic Capture, and under Foreground / Camera, choose Unreal Texture Share.
+If you want to play the UE project on the wall, but not use the Projection mapping workflow, you can just click Live Setup, then Basic Capture, and under Foreground / Camera, choose Unreal Texture Share.
 
 For this tutorial, I will use this last option, Basic Capture, but the next steps are the same, regardless of your setup.
 
@@ -108,14 +115,16 @@ For this tutorial, I will use this last option, Basic Capture, but the next step
 
     **Click Connect.**\
     \
+    IP can be 127.0.0.1 if using the local machine\
+    \
+    The Port should remain 9001.\
+    \
     If you see numbers moving at the bottom, this is set up correctly.\
+    \
+    :bulb:**YOU MUST HAVE AN ACTIVE CAMERA IN YOUR SCENE, MORE ON THIS BELOW**\
 
 
     <figure><img src="../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
-
-    IP can be 127.0.0.1 if using the local machine\
-    \
-    The Port should remain 9001.
 3.  If using **camera tracking**, make sure your tracking is set up correctly and that you **press “Apply”** so that it applies to your camera.\
     \
 
@@ -130,12 +139,17 @@ For this tutorial, I will use this last option, Basic Capture, but the next step
 
     <figure><img src="../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
 
-We can see from the screenshot below that we’ve set everything up correctly because we see the Watertower demo in the viewport (through the Unreal Texture Share layer), the Live Link has a frame counter, **counting frames** below the Scale in the Unreal Live Link window. \
+We can see from the screenshot below that we’ve set everything up correctly because we see the Watertower demo in the viewport (through the Unreal Texture Share layer), the Live Link has a frame counter, **counting frames** below the Scale in the Unreal Live Link window.&#x20;
 
+<figure><img src="../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
 
-In the **Camera tab**, the camera is active and if I pan, it moves the Unreal Engine camera. If you have camera tracking enabled, when you move the camera, it should move correctly.&#x20;
+In the **Camera tab**, the camera is active and if I pan, it moves the Unreal Engine camera. If you have camera tracking enabled, when you move the camera, it should move correctly. \
+\
+:bulb:If you are not using projection mapping, you can click on Manual and use the Position to move the Unreal Engine camera around your scene.&#x20;
 
-<figure><img src="https://lh7-us.googleusercontent.com/8IHYVi_4BqtN2FYJGZ90KKZPGlMv7hNlR_T4ygXFsM8ZGoQtbFX-CvxQi36sDsFVuAraTU5q_KqD59FUgbgz05z-TrB8dSdfQoLsUS__Xl_cW4moXxZXwPlE77eUIVzsZrGQ1pHmFQF7auq5yFPqNng" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
+
+:bulb:If you are using projection mapping, you cannot use the Position to move the camera in the Unreal scene without affecting your projection mapping. You could use Web Remote instead to move your camera in your scene.&#x20;
 
 ## 6. Web Remote Control&#x20;
 
