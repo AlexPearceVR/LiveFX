@@ -51,11 +51,11 @@ I’ve renamed the shortcut to “**OnScreen1920x1080**”
 3. Paste these in the **target** field, after “...exe”, with one space after the end (with or without -RenderOffscreen, if you want to be able to see it or not).\
    \
    Text to copy and paste:\
-   **-RenderOffscreen -ForceRes -ResX=1920 -ResY=1080 -RCWebControlEnable -RCWebInterfaceEnable**\
+   **-RenderOffscreen -ForceRes -ResX=1920 -ResY=1080 -RCWebControlEnable -RCWebInterfaceEnable -t.MaxFPS = 23.976**\
    \
    Should look like this:\
    ![](https://lh7-us.googleusercontent.com/wHpA5cBq7rQlfq8DxcrDcz8zVKW-R6VQQKYiTSN2JhrdwtLXvQjd87HwovQl8wSFlnNn--dcUcK0pC2SMBDVNMfugLMRWW87aP7y4hWG8aOiK37v2mJ9j9XR2ilML2JN59fQc3ndxXdNCousI9RYClw)
-4. You should enter the resolution of your LED wall, or your monitor, as you want. So if your wall is 2560x1320, you’d put **“-ForceRes -ResX=2560 -ResY=1320”** where it’s appropriate.\
+4. You should enter the resolution of your LED wall, or your monitor, as you want. So if your wall is 2560x1320, you’d put “-ForceRes -ResX=2560 -ResY=1320” where it’s appropriate.\
    \
    And you would likely want to [change your timeline resolution](../getting-started/the-basics/change-shot-framerate-and-resolution.md) to match this setting as well.&#x20;
 
