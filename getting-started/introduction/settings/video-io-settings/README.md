@@ -6,17 +6,17 @@ You can get to the Video IO Settings from the startup menu or from the Settings 
 
 {% tabs %}
 {% tab title="From Startup" %}
-<figure><img src="../../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="From Shot Settings" %}
-<figure><img src="../../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
 ## Video IO Settings
 
-<figure><img src="../../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 The Video IO menu is where you can access any video cards you have connected to your computer, as well as enable NDI.&#x20;
 

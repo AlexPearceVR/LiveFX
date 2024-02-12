@@ -15,7 +15,7 @@ Choose "Live Setup" and then choose Green Screen with Background from the dropdo
 
 <figure><img src="../.gitbook/assets/image (32).png" alt="" width="563"><figcaption></figcaption></figure>
 
-Foreground Camera - Choose the Live Capture source from the capture card that you have already set up in your [Video IO settings](../getting-started/introduction/settings/video-io-settings.md). I'm using my Mac's built-in webcam for this example, but normally I'd be using the camera signal coming into my Blackmagic Decklink 8k.&#x20;
+Foreground Camera - Choose the Live Capture source from the capture card that you have already set up in your [Video IO settings](../getting-started/introduction/settings/video-io-settings/). I'm using my Mac's built-in webcam for this example, but normally I'd be using the camera signal coming into my Blackmagic Decklink 8k.&#x20;
 
 Background - Click on Browse and choose a 360 Video.&#x20;
 
