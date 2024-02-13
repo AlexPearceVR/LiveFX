@@ -2,6 +2,14 @@
 
 {% embed url="https://player.vimeo.com/video/727369885" %}
 
+{% hint style="danger" %}
+When you are in the Setup menu for Camera Calibration, make sure you measure the Square separately from the Aruco. The square values are on the Left (orange) and the Aruco Size is on the Right (purple).
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
+
 Currently, Live FX can only work with Prime Lenses or at fixed focal length for calibration.&#x20;
 
 For example, if using an 18-55mm Zoom lens. You could calibrate it at 18mm, 24mm, 35mm, and 50mm, but it cannot dynamically change as you zoom.
