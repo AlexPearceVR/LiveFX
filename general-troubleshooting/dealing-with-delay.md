@@ -36,7 +36,7 @@ One reason you may need to delay your camera feed is if you are using a Green Sc
 2.  Under the "**Video Capture**" Menu, you will find the **Delay** as well as the Auto TC Sync button.\
 
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 3. **Adjust the Delay** as needed. It can be helpful to **whip pan** your camera quickly to see how much to delay your camera.&#x20;
