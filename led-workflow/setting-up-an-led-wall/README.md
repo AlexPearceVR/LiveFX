@@ -37,11 +37,11 @@ For you to use Nvidia Mosaic, you must have a Quadro line card, like the Nvidia 
 1.  From the Construct, open the Projection Setup\
 
 
-    <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 2.  Click on Edit.\
 
 
-    <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 3.  If there is not a wall, Click Add, to add a new wall.\
@@ -64,7 +64,7 @@ For you to use Nvidia Mosaic, you must have a Quadro line card, like the Nvidia 
 6.  Make sure you fill in your Wall Curvature as well. If you don't know your wall curvature, but instead know your tile degrees, you can use the free tool [ObjGen](https://objgen.makkbe.net/) to calculate the Wall Curvature, by entering your Tile Angle and looking at the Curvature. You can also just use this tool to create an OBJ instead if you want. \
 
 
-    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 7. Create as many walls and ceilings as you need to.&#x20;
 8.  Click on the **Mapper** tab, then click on **Map.** \
     To map your setup correctly, it's best to have your LED processor mapping up on a monitor nearby, and you need to match however the LED processor is mapped (or you could set up Live FX and then re-map in the LED processor). \

@@ -66,6 +66,8 @@ You can also click on Window and just start searching for Live Link.
 
     <figure><img src="https://lh7-us.googleusercontent.com/OiUh1gp0ctOGx7CsyUP2ymSre0ulkTIxa8zk4bN0M-UNb5VMHVt4bDbIfyBh3MQGLJ4blTArwRQ9hi2go477pPVgXzFAcPniUn3GgYdEvB8G3YKEIQASlv22tNeE7J6mYfG6rFqiHz0WU_j0DYMQTSoLtw=s2048" alt=""><figcaption></figcaption></figure>
 
+    :bulb:If you want to be able to trigger Take Recorder from Unreal, make sure to select Auto Record here. Otherwise, you can leave it unchecked.\
+    \
     If you haven’t set up Live FX properly yet, then you will likely see a yellow dot, and you may see the message “Can’t Evaluate frame for Live FX”. \
 
 

@@ -62,6 +62,7 @@
   * [How to Sample Multiple Video Sources through Videowall](lighting/how-to-sample-multiple-video-sources-through-videowall.md)
 * [🎮 Unreal Engine](unreal-engine/README.md)
   * [Set up Unreal Engine with Live FX](unreal-engine/set-up-unreal-engine-with-live-fx.md)
+  * [Take Recorder](unreal-engine/take-recorder.md)
   * [Unreal Web Remote Control (Optional)](unreal-engine/unreal-web-remote-control-optional.md)
   * [How to Package an Unreal Engine Project for Live FX](unreal-engine/how-to-package-an-unreal-engine-project-for-live-fx.md)
 * [🌅 Live Looks - Live Grade LED Walls](live-looks-live-grade-led-walls/README.md)
