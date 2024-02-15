@@ -46,6 +46,7 @@
   * [How to apply FIZ (Zoom and Focus) from Camera Tracking](camera-tracking/how-to-apply-fiz-zoom-and-focus-from-camera-tracking.md)
 * [🟩 Green Screen Workflow](green-screen-workflow/README.md)
   * [Qualifiers](green-screen-workflow/qualifiers.md)
+  * [Green Screen with Set Extension Workflow](green-screen-workflow/green-screen-with-set-extension-workflow.md)
 * [📺 LED Workflow](led-workflow/README.md)
   * [Setting up an LED Wall](led-workflow/setting-up-an-led-wall/README.md)
     * [Set Up Nvidia Mosaic](led-workflow/setting-up-an-led-wall/set-up-nvidia-mosaic.md)
