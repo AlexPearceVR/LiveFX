@@ -11,6 +11,7 @@ This knowledge base will help you learn all about Live FX.\
 [Visit the Website](https://www.assimilateinc.com/products/livefx/)\
 [Register for a free trial of Live FX](https://register.assimilateinc.com/registration.aspx?p=9)\
 [Join our Discord community](https://discord.com/invite/dgQepa6qjr)\
+[Download the Latest Build](https://www.assimilateinc.com/download/)\
 [Email Support](mailto:support@assimilateinc.com)
 
 ## Using this documentation
