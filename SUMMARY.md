@@ -69,6 +69,7 @@
   * [Unreal Web Remote Control (Optional)](unreal-engine/unreal-web-remote-control-optional.md)
   * [How to Package an Unreal Engine Project for Live FX](unreal-engine/how-to-package-an-unreal-engine-project-for-live-fx/README.md)
     * [Command Line Arguments](unreal-engine/how-to-package-an-unreal-engine-project-for-live-fx/command-line-arguments.md)
+    * [Before You Package](unreal-engine/how-to-package-an-unreal-engine-project-for-live-fx/before-you-package.md)
   * [Working with Sequencer](unreal-engine/working-with-sequencer.md)
 * [🌅 Live Looks - Live Grade LED Walls](live-looks-live-grade-led-walls/README.md)
   * [How to Purchase and Install Live Looks](live-looks-live-grade-led-walls/how-to-purchase-and-install-live-looks.md)

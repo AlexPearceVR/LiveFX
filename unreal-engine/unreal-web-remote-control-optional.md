@@ -50,7 +50,11 @@ This is important if you want to package your project later.
 
 <figure><img src="https://lh7-us.googleusercontent.com/v_D8b6UZVujzZFBBbfCRoY6RsOjLNyiiNjeR4jQOpqZhUbBWHVG2F9rWMuaUfp2luwQy2AJZ_yvamvGRbjQjdqkZMKW18vGlBQFsmkiXU96-L5wdmATbtcQXWW_oNevMXvg2kPyNA-ACzBbLhk7OAj07BQ=s2048" alt=""><figcaption></figcaption></figure>
 
-4. Click on an item you want to be able to control to **see what you can control**.\
+4.  The Description name is what is visible, so make sure to rename this to something that will be obvious what it is like "Sun Rotation".\
+
+
+    <figure><img src="../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
+5. Click on an item you want to be able to control to **see what you can control**.\
    \
    For this example, let’s click on the **Directional Light**, and turn the Light Color and Intensity eyeballs on.
 
@@ -87,6 +91,10 @@ This is important if you want to package your project later.
    **Control through your browser!**
 
 <figure><img src="https://lh7-us.googleusercontent.com/SdTvCCxtQQ0p1DJ0mBdG_LFehMyL4ni_0TXBRYWQdsivAbrap-uTlrSezjg4bl_4iXN3kBU0IAHqDYDAjEaxlA7-EGjNULd6hVOifb3K0UHAOfF9O59cSz0q4H5bOSEh9dPeMYom8BJU5funCdn6z7I6KQ=s2048" alt=""><figcaption></figcaption></figure>
+
+If you want to control from a different device on the same network, enter the host's ip address:30000 into the browser. For example, it would look something like 192.168.1.23:30000 \
+\
+To find your computer's IP Address you can&#x20;
 
 ## 4. iPad or iPhone App (Optional)
 
