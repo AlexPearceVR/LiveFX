@@ -4,7 +4,7 @@
 
 The Live FX/Unreal Engine workflow allows you to **build your Unreal Engine Projects to a game,** that can exist as an .exe file.&#x20;
 
-This means that if you plan ahead and [package your project](../unreal-engine/how-to-package-an-unreal-engine-project-for-live-fx.md), your Unreal Project can work **without Unreal Engine even installed** on the host machine, complete with camera tracking, projection mapping, and Web Remote Control if you need it!&#x20;
+This means that if you plan ahead and [package your project](../unreal-engine/how-to-package-an-unreal-engine-project-for-live-fx/), your Unreal Project can work **without Unreal Engine even installed** on the host machine, complete with camera tracking, projection mapping, and Web Remote Control if you need it!&#x20;
 
 If you want to follow along with this example, you do not need to have Unreal Engine installed, just a Windows computer with Live FX already installed and set up.
 

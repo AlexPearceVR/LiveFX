@@ -98,4 +98,4 @@ If you have a compatible iPhone or iPad and are connected to the **same network*
 
 ## 5. Copy Webapp into Executable
 
-If you are planning on using the Remote Control with an executable, [make sure to follow these steps at this link. ](how-to-package-an-unreal-engine-project-for-live-fx.md)
+If you are planning on using the Remote Control with an executable, [make sure to follow these steps at this link. ](how-to-package-an-unreal-engine-project-for-live-fx/)
