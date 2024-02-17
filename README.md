@@ -1,12 +1,37 @@
+---
+cover: .gitbook/assets/LFX Banner.png
+coverY: 9.6319290465632
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 📚 Getting Started
 
-Live FX offers a toolset for virtual production in its broadest sense: live on-set compositing, pre-visualization, and LED wall projection.
+**Live FX** is a software media server for virtual production that includes Green Screen and LED wall workflows, for both Windows and Mac operating systems.&#x20;
 
-It also integrates image-based lighting (IBL) through DMX allowing you full control over the look and feel of a scene. \
+Some of the main features of Live FX include:
 
+* 16k+ Resolution Video Playback
+* **Unreal Engine**/Unity/Notch compatibility
+* Every major Video Codec including ProRes, Notch LC, h.264
+* **Projection-Mapping**
+* LED Wall mapping
+* **Green Screen** compositing
+* Image-Based **Lighting**
+* Fast Nodal offset and lens calibration workflows
 
-This knowledge base will help you learn all about Live FX.\
-\
 **Some helpful links:**\
 [Visit the Website](https://www.assimilateinc.com/products/livefx/)\
 [Register for a free trial of Live FX](https://register.assimilateinc.com/registration.aspx?p=9)\
@@ -15,6 +40,8 @@ This knowledge base will help you learn all about Live FX.\
 [Email Support](mailto:support@assimilateinc.com)
 
 ## Using this documentation
+
+This knowledge base will help you learn all about Live FX.
 
 You can use the sidebar on the left to navigate through the documentation, or you can use the search function to search for specific information.&#x20;
 

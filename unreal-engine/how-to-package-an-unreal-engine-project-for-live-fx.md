@@ -24,6 +24,10 @@ If you don't do this, then when the camera is not moving for 5 minutes or so, it
 
 <figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+You should also be able to change the game mode by using a console command.
+{% endhint %}
+
 ## Enable Remote Session
 
 If you haven't done so already, make sure to enable the Plugin "Remote Session", which allows iPhones and iPads to connect via the web remote control.&#x20;
@@ -62,4 +66,17 @@ To start an animation sequence at the start, and to have it loop 999 times, set 
 To break out the settings, right-click on the Settings pin and select "Split Struct Pin".![](<../.gitbook/assets/image (12).png>)\
 
 {% endhint %}
+
+
+
+## Change Levels
+
+In order to be able to change levels with Command Line Arguments, you will need to make sure you package your game with the levels you need to be able to load.
+
+<figure><img src="../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
+
+Then to open your map, you need to know the path that you put here, and paste it exactly as it is after the ...exe, with no "-". For example, it should look like this:\
+
+
+<figure><img src="../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
 
