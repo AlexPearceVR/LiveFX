@@ -8,6 +8,10 @@ You can find this app on the app store, and more information about it here. It's
 
 {% embed url="https://www.bitshapesoftware.com/instruments/gyrosc/" %}
 
+Here is the Video Tutorial:
+
+{% embed url="https://youtube.com/live/lzEZnJ3IH60" %}
+
 1. Buy and [Download the app from the app store](https://apps.apple.com/us/app/gyrosc/id418751595)
 2. Connect your phone and your computer to the same wifi signal
 3.  In Live FX, go to the Live FX Menu, Live Links, turn on OSC App Sensor Tracker\

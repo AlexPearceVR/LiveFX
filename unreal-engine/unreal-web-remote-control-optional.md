@@ -94,7 +94,7 @@ This is important if you want to package your project later.
 
 If you want to control from a different device on the same network, enter the host's ip address:30000 into the browser. For example, it would look something like 192.168.1.23:30000 \
 \
-To find your computer's IP Address you can&#x20;
+To find your [computer's IP Address you can follow the steps here.](../general-troubleshooting/networking-tips.md#how-to-find-your-computers-ip-address)
 
 ## 4. iPad or iPhone App (Optional)
 
