@@ -1,6 +1,6 @@
 # REtracker Bliss
 
-Here is a tutorial for how to set up the REtracker BLISS to work with Assimilate Live FX:
+Here is a tutorial for how to set up the REtracker Bliss to work with Assimilate Live FX:
 
 {% embed url="https://youtu.be/6uZIOp9xaxw" %}
 
@@ -14,7 +14,7 @@ These instructions will be changing because Assimilate will implement the REtrac
     <figure><img src="../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
 
 
-4. Launch REtracker BLISS
+4. Launch REtracker Bliss
 5. In Assimilate, go to the Live FX Menu then Live Links
 6.  Turn **FreeD Tracker** On and set the port to the same number you had in the settings, in my case 40000.\
 

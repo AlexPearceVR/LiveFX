@@ -34,7 +34,7 @@
 * [🎥 Camera Tracking](camera-tracking/README.md)
   * [Camera and Lens Calibration](camera-tracking/camera-and-lens-calibration.md)
   * [Camera Trackers](camera-tracking/camera-trackers/README.md)
-    * [REtracker BLISS](camera-tracking/camera-trackers/retracker-bliss.md)
+    * [REtracker Bliss](camera-tracking/camera-trackers/retracker-bliss.md)
     * [ZEISS CinCraft Scenario](camera-tracking/camera-trackers/zeiss-cincraft-scenario.md)
     * [MoSys](camera-tracking/camera-trackers/mosys.md)
     * [Stype](camera-tracking/camera-trackers/stype.md)
