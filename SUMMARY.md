@@ -55,6 +55,7 @@
   * [Stage Manager](led-workflow/stage-manager.md)
   * [How to make the inner frustum green](led-workflow/how-to-make-the-inner-frustum-green.md)
   * [Switcher Node](led-workflow/switcher-node.md)
+  * [Tips when using Projection Mapping](led-workflow/tips-when-using-projection-mapping.md)
 * [💡 Lighting](lighting/README.md)
   * [Getting started with Image Based Lighting](lighting/getting-started-with-image-based-lighting.md)
   * [Lighting Brands](lighting/lighting-brands/README.md)

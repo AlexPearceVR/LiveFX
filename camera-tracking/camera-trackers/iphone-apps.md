@@ -2,6 +2,31 @@
 
 You can use an iPhone for basic camera tracking, but should only be used for R\&D purposes. All of the apps we have used so far are not good enough for Professional work.&#x20;
 
+## Zig Sim Pro
+
+Zig Sim Pro is an iPhone app that we can use for Camera Tracking in Live FX. It allows for x, y, z, pan, tilt and roll tracking.
+
+{% embed url="https://youtu.be/LQPW4ii_S9A" %}
+
+1. [Buy and Download Zig Sim Pro from the app store.](https://apps.apple.com/us/app/zig-sim-pro/id1481556614)
+2.  In the app, Enable the ARKit by tapping just to the left of the name, you should see a checkbox. Make sure nothing else is checked.\
+
+
+    <figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+    \
+    The default ARKit settings should be fine, but if you click on the arrow, you can make sure they are set like this. Tracking Type Device and Feature Points On.
+
+    <figure><img src="../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
+3.  Use the Settings mene and the Live Links menu and make sure you set your Port number the same, your device UUID the same, your IP address should match what is in Live FX, and change the Message Rate to 60.\
+
+
+    <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+
+4. Press Apply in the Live Links menu.&#x20;
+5. Follow the [Camera Calibration and Nodal Offset instructions](../camera-and-lens-calibration.md)
+
 ## GyrOSC
 
 You can find this app on the app store, and more information about it here. It's currently $.99
