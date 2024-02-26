@@ -79,7 +79,7 @@
 * [General Troubleshooting](general-troubleshooting/README.md)
   * [📰 Licensing the Software](general-troubleshooting/licensing-the-software.md)
   * [🕙 Dealing with Delay](general-troubleshooting/dealing-with-delay.md)
-  * [🖥 Networking Tips](general-troubleshooting/networking-tips.md)
+  * [🖥️ Networking Tips](general-troubleshooting/networking-tips.md)
   * [❓ Frequently Asked Questions (FAQs)](general-troubleshooting/frequently-asked-questions-faqs/README.md)
     * [Does Live FX support Unreal 5.3?](general-troubleshooting/frequently-asked-questions-faqs/does-live-fx-support-unreal-5.3.md)
     * [Why won't Live FX open when I have a second monitor hooked up?](general-troubleshooting/frequently-asked-questions-faqs/why-wont-live-fx-open-when-i-have-a-second-monitor-hooked-up.md)
