@@ -154,7 +154,7 @@ There are a few ways to work with the **Texture Share** image that comes from Un
 
 If you are using a Camera Projection method with an **Inner Frustum**, you can choose the **Projection Setup** and then under Project Media, choose **`Live Capture > Unreal Texture Share,`** then you can follow your normal workflow.
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 For small walls, sometimes this is not necessary and it's preferred to not have an inner frustum at all. Here is one method to achieve that. &#x20;
 
@@ -163,13 +163,13 @@ For small walls, sometimes this is not necessary and it's preferred to not have 
     In the construct, go to the **Filler dropdown** and add black or whichever you want.\
 
 
-    <figure><img src="../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 2.  With the new Layer selected, on the bottom left, go to **“Plug-Ins”.**\
 
 
 
 
-    <figure><img src="../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 3.  Select **“Unreal Texture Share”** and **Apply on Layer.**\
@@ -182,7 +182,7 @@ For small walls, sometimes this is not necessary and it's preferred to not have 
 1.  Click on the **Live FX** menu, then click on the **Live Links** Menu.\
 
 
-    <figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 2.  Click on **Unreal Live Link.**\
@@ -193,7 +193,7 @@ For small walls, sometimes this is not necessary and it's preferred to not have 
     **Click Connect.**\
 
 
-    <figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (12) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     \*IP can be 127.0.0.1 if using the local machine
 
