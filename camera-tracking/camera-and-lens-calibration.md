@@ -24,7 +24,7 @@ You may want to create a new timeline and shot specifically to make your calibra
 
 Change your focal length to the lens size that you are using on your camera.
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
