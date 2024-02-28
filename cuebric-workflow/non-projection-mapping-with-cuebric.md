@@ -2,6 +2,13 @@
 
 Here is a workflow if you are using Green Screen or perhaps just have a flat wall and want to skip projection mapping for one reason or another.
 
+You can use .2p5d files directly in Live FX.
+
+Here are some files to download and follow along:\
+[https://www.dropbox.com/scl/fo/dcromk5m6i0vbg1ts1do6/h?rlkey=b5uou9q0c8bvq4e9ip2dhe0uz\&dl=0](https://www.dropbox.com/scl/fo/dcromk5m6i0vbg1ts1do6/h?rlkey=b5uou9q0c8bvq4e9ip2dhe0uz\&dl=0)
+
+These include two .2p5d files, as well as those same files, unzipped.&#x20;
+
 ## Set up the .2p5d shot
 
 1. Create a new timeline, and set your timeline resolution to whatever you want your final resolution to be, in this example, I'll use 1920x1080.

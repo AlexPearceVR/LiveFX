@@ -2,6 +2,11 @@
 
 You can use the .2p5d files directly in Live FX.&#x20;
 
+Here are some files to download and follow along:\
+[https://www.dropbox.com/scl/fo/dcromk5m6i0vbg1ts1do6/h?rlkey=b5uou9q0c8bvq4e9ip2dhe0uz\&dl=0](https://www.dropbox.com/scl/fo/dcromk5m6i0vbg1ts1do6/h?rlkey=b5uou9q0c8bvq4e9ip2dhe0uz\&dl=0)
+
+These include two .2p5d files, as well as those same files, unzipped.&#x20;
+
 ## Using the Projection Setup
 
 1. Open the Projection Setup menu
@@ -30,7 +35,7 @@ Projection mapping 2.5d workflows work similarly to non-projection mapping, but 
 You should look at your physical wall or through the stage manager to check if the parallax looks correct and if everything is working properly. Looking at the image in the editor can be deceiving because it's based on what the camera would be seeing through the projection.&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (227).png" alt=""><figcaption><p>The Yellow planes here are the various layers set to different depths. </p></figcaption></figure>
 
 When you enter your shot, you will need to adjust a few things. You might notice that it's black or that it doesn't fill your entire wall, for example. There are two main ways of adjusting the size and depth of your individual layers. These are the Camera position and Plane->Wall Projection Settings for each layer.&#x20;
 
