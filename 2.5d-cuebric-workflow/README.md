@@ -4,7 +4,7 @@
 
 Graphic showing the basic concept of 2.5d.&#x20;
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Here are some files to download and follow along:\
 [https://www.dropbox.com/scl/fo/dcromk5m6i0vbg1ts1do6/h?rlkey=b5uou9q0c8bvq4e9ip2dhe0uz\&dl=0](https://www.dropbox.com/scl/fo/dcromk5m6i0vbg1ts1do6/h?rlkey=b5uou9q0c8bvq4e9ip2dhe0uz\&dl=0)
@@ -17,17 +17,17 @@ One benefit to having separate layers for the foreground, middle ground, and bac
 
 To defocus layers, select the layer you want to affect, go to the **Numeric tab,** and under Aperture, change the Defocus. I'll defocus the Sky, Water, Mountains and Rocks layers.
 
-<figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 You could also use the Lens Blur plug-in to get more extreme results.&#x20;
 
 Go to Plug-ins->Effects->Lens Blur and add on layer.
 
-<figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 Make any adjustments you want here, and make sure to Blur Alpha.
 
-<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -42,22 +42,22 @@ For non-projection mapping workflows.&#x20;
     \
 
 
-    <figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 
 3.  Click on the Reload Project at the bottom left of the construct. **If you don't do this, your media may not load correctly and when you enter your shot, it may just be black.** \
 
 
-    <figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 
-4. Enter the shot by double-clicking the shot. [Change the Shot Length](getting-started/the-basics/change-the-shot-length.md) if you want to.&#x20;
+4. Enter the shot by double-clicking the shot. [Change the Shot Length](../getting-started/the-basics/change-the-shot-length.md) if you want to.&#x20;
 
 #### Rename the layers
 
-Let's [rename the layers](getting-started/the-basics/working-with-layers.md#rename-layers) so that instead of Image\_5, we know what we are working with.&#x20;
+Let's [rename the layers](../getting-started/the-basics/working-with-layers.md#rename-layers) so that instead of Image\_5, we know what we are working with.&#x20;
 
 #### Working with the layers
 
@@ -67,7 +67,7 @@ I like to Unlink the views by clicking on Link on the right side so that it is g
 
 Notice that Image\_1 is selected and the orange line corresponds to where that is in 3d space. If I were to move it in Trans Z we'd see it update here.&#x20;
 
-<figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 The main ways to increase/decrease the parallax effect are by moving the images closer/further away from the camera in Z space and by moving the camera.&#x20;
 
@@ -75,30 +75,30 @@ To move the individual layers, click on a layer, then click on the **Canvas Menu
 
 As we change the Trans X, Y, Z, or Scale, we will see it updated in the Perspective view.&#x20;
 
-<figure><img src=".gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 If we move our camera on the X-axis right now, we can see the bottom of the Dome layer is floating, and the far background (Sky, Water, and Mountains) is moving way too much.&#x20;
 
-<figure><img src=".gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
 
 If we think about real-life parallax, the sky and water are so far away we wouldn't notice any parallax by moving a few feet one way or the other and the mountains would just barely be noticeable, so let's try to create that effect.
 
 1.  We need to change the camera Far clipping plane, otherwise, we'll move our layer back behind the clipping plane and it will just turn black. To do that, go to the Camera Tab, click on the Config tab, and change the Far distance to something very far, I'll set it to 10,000 for now. \
 
 
-    <figure><img src=".gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
 
 
 2.  Now let's move our Sky layer and Water layer very far back, I'll set -5000 on the Trans Z. Make sure Fit is enabled and/or scale it to fit the screen. \
 
 
-    <figure><img src=".gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
 
 
 3.  For the Mountains layer, move it back in Trans Z, check the camera, and repeat that until you are happy with the results. In my case, I found that -250 on Trans Z looks natural.\
 
 
-    <figure><img src=".gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
 
 
 4.  For the Dome layer, the parallax looks good, but the layer itself is floating above, so click on the layer and move it, or use the canvas menu Trans X and Trans Y to move it into a position that works. \
@@ -106,12 +106,12 @@ If we think about real-life parallax, the sky and water are so far away we would
     **Tip** - With the layer selected, you can move your cursor right over one of the edges of the layer, hold Shift, and click and drag to scale the layer uniformly.\
 
 
-    <figure><img src=".gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
 
 
 5. Lastly, defocus and color each layer as needed and you are ready to shoot!
 
-<figure><img src=".gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -127,13 +127,13 @@ If we think about real-life parallax, the sky and water are so far away we would
 4.  For projection, we recommend the Planar Projection.\
 
 
-    <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 
 5.  Make sure that the resolution of your shot is the same as the resolution of your Wall. For example, in my case, it's 4000x1600, but I had accidentally set my timeline to be 1920x1080, so I checked when I entered my shot, and then went back to Single Shot so that it would enter the shot at the correct resolution. \
 
 
-    <figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption><p>The bottom right of the shot always tells you the resolution and frame rate.</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>The bottom right of the shot always tells you the resolution and frame rate.</p></figcaption></figure>
 
 #### Working with Projection Mapping
 
@@ -145,15 +145,15 @@ Projection mapping 2.5d workflows work similarly to non-projection mapping, but 
 You should look at your physical wall or through the stage manager to check if the parallax looks correct and if everything is working properly. Looking at the image in the editor can be deceiving because it's based on what the camera would be seeing through the projection.&#x20;
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>The Yellow planes here are the various layers set to different depths. </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>The Yellow planes here are the various layers set to different depths. </p></figcaption></figure>
 
 When you enter your shot, you will need to adjust a few things. You might notice that it's black or that it doesn't fill your entire wall, for example. There are two main ways of adjusting the size and depth of your individual layers. These are the Camera position and Plane->Wall Projection Settings for each layer.&#x20;
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption><p>How my shot looked when i first entered. The content should fill all the way to the white thin border.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>How my shot looked when i first entered. The content should fill all the way to the white thin border.</p></figcaption></figure>
 
 Move your camera to your filming position. I moved my camera back, and already it's closer to what i need it to be, notice in the screenshot below that as I moved my Z position back, it started filling the frame better.&#x20;
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 With your camera in the correct position, it's time to adjust the individual layers to work better for us. First, I will rename my images, so I know what they are.&#x20;
 
@@ -173,34 +173,34 @@ If you do not see the image, you may be actually behind your camera, adjust your
 
 Go through each layer and change the Width/Height, Trans Z, and position them in X,Y space where you want them.&#x20;
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ## Manually set up 2.5d layers
 
 You can manually set up a 2.5d shot by adding in layers and putting them in various Z-depth spaces, or project them on planes a varying depths. &#x20;
 
-1. [Set your shot resolution](getting-started/the-basics/change-shot-framerate-and-resolution.md) to the same resolution as your LED wall, or your preferred output resolution if Green Screen.&#x20;
+1. [Set your shot resolution](../getting-started/the-basics/change-shot-framerate-and-resolution.md) to the same resolution as your LED wall, or your preferred output resolution if Green Screen.&#x20;
 2.  Add a Filler to the timeline and enter the shot.
 
-    <figure><img src=".gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
 
 
 3.  If you want to increase the shot duration, go to the Live FX Menu and change the out number to something longer, like 1000 frames. \
 
 
-    <figure><img src=".gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
 4.  Right-click and import your files one at a time, you may want to click on "Still Frame" if you are importing images.
 
-    <figure><img src=".gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
 
 
 5.  After you add all your images, you can Shift+select them and Press Group. The order should go further back layer on top and closest layer on the bottom. Then with the Group selected, you may need to go to the Canvas menu and scale to fit.\
 
 
-    <figure><img src=".gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
 
 
 
-For non-projection mapping workflows, you can now just [follow the instructions above.](2.5d-cuebric-workflow.md#greenscreen-non-projection-mapping)
+For non-projection mapping workflows, you can now just [follow the instructions above.](./#greenscreen-non-projection-mapping)
 
 For Projection Mapping workflows.&#x20;
