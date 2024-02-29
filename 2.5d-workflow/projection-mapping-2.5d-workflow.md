@@ -25,32 +25,46 @@ You can manually set up a 2.5d shot with projection mapping by adding in layers 
     <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 
-6. Go to the camera menu and [activate the camera](../getting-started/the-basics/general-tips.md#activate-the-camera).\
-
-7. [Add a Version](../getting-started/the-basics/general-tips.md#add-a-version) and [Rename the version](../getting-started/the-basics/general-tips.md#rename-a-version) to "Parallax Node".&#x20;
-8. Connect your tracker and make sure to Apply the tracking information.
-9.  Go to the Camera menu, Config Tab and change the Far Clipping to something very far, like 10000\
+6. Go to the camera menu and [activate the camera](../getting-started/the-basics/general-tips.md#activate-the-camera).
+7. Connect your tracker and make sure to Apply the tracking information.
+8.  Go to the Camera menu, Config Tab and change the Far Clipping to something very far, like 10000\
 
 
     <figure><img src="../.gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
-10. For each layer, we need to go into the Canvas Menu, and move it back in Z depth, with the furthest layers further back than the closest layers. It might be helpful to reference the a[rticle on Cuebric about this](../cuebric-workflow/non-projection-mapping-with-cuebric.md#working-with-the-layers), which goes into more detail.&#x20;
-11. For the Sky Layer, I'll set the **Trans Z to -5000**, enable the **Fit** **button**, and then turn off **Relative button.**\
+9.  For each layer, we need to do the following. \
+    1\. **Select the Layer** \
+    2\. Go to the **Plugins Menu** \
+    3\. Add the **Plane->Wall plugin.**\
+    **4.** Make sure to **Add to Layer**\
 
 
-    <figure><img src="../.gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>
-
-    I'll repeat this for all the layers with the Trans Z being the following for each layer:\
-    Water -3000\
-    Mountains -250\
-    Dome -42\
-    Rocks -11
-12. With the main Group layer selected, go to the Plug-ins menu, find the Plane->Wall plugin and **Apply On Node**
-13. Open the the Plane->Wall menu, click on Link to Stage Manager, and select the appropriate wall. (You may need to go to the stage manager and make sure the wall is active).\
+    <figure><img src="../.gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure>
 
 
-    <figure><img src="../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
+10. Now for each layer we need to Go to the Plane->Wall Menu, and Link to Stage Manager. Select the wall you want to use. \
 
 
-14. Click on the Projection Tab and Link to Shot Camera.
+    <figure><img src="../.gitbook/assets/image (248).png" alt=""><figcaption></figcaption></figure>
 
-(More details needed, check back again soon).
+
+11. For each layer we also need to Go to the **Plane->Wall Menu**, click on the **Projection tab**, and enable **Link to Shot Camera.**
+
+    <figure><img src="../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
+
+
+12. Open Stage Manager so we can visualize the next steps.\
+
+
+    <figure><img src="../.gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure>
+
+
+13. Now select one layer at at time and move the Trans Z back in Z space, with the furthest layer the furthest negative, and the closest layer closer to 0. Use the Width/Height to scale it up and down and use X,Y to move it as needed. \
+
+
+    <figure><img src="../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
+
+
+
+{% hint style="info" %}
+Look through the camera or through Stage Manager to see if it looks correct, the viewport will look the opposite of what you would expect. For example, you would expect the background layers would not move and the foreground layers would move as you move the camera along the X axis, but with Projection Mapping, this is backward in the Viewport.
+{% endhint %}
