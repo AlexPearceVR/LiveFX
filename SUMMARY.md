@@ -23,6 +23,7 @@
     * [Change the Shot Length](getting-started/the-basics/change-the-shot-length.md)
     * [Timecode](getting-started/the-basics/timecode.md)
     * [Working with Layers](getting-started/the-basics/working-with-layers.md)
+    * [General Tips](getting-started/the-basics/general-tips.md)
   * [Helpful Links](getting-started/helpful-links.md)
 * [⚡ Quickstart Example Projects](<README (1).md>)
   * [Simple Video Playback](quickstart-example-projects/simple-video-playback.md)
