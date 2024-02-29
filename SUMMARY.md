@@ -77,7 +77,7 @@
     * [Before You Package](unreal-engine/how-to-package-an-unreal-engine-project-for-live-fx/before-you-package.md)
   * [Working with Sequencer](unreal-engine/working-with-sequencer.md)
 * [©️ Cuebric Workflow](cuebric-workflow/README.md)
-  * [Projection Mapping with Cubric Files](cuebric-workflow/projection-mapping-with-cubric-files.md)
+  * [Projection Mapping with Cuebric Files](cuebric-workflow/projection-mapping-with-cuebric-files.md)
   * [Non-Projection Mapping with Cuebric](cuebric-workflow/non-projection-mapping-with-cuebric.md)
 * [🧊 2.5d Workflow](2.5d-workflow/README.md)
   * [Projection Mapping 2.5d Workflow](2.5d-workflow/projection-mapping-2.5d-workflow.md)
