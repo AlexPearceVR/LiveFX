@@ -11,4 +11,4 @@ You can have Live FX automatically trigger Take Recorder when you press record i
     Change Countdown from 3.0 Seconds to 0. \
 
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
