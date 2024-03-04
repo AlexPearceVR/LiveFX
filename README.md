@@ -23,13 +23,13 @@ layout:
 
 Some of the main features of Live FX include:
 
-* 16k+ Resolution Video Playback
-* **Unreal Engine**/Unity/Notch compatibility
+* 16k+ Resolution [**Video Playback**](quickstart-example-projects/simple-video-playback.md)
+* [**Unreal Engine**](unreal-engine/)/Unity/Notch compatibility
 * Every major Video Codec including ProRes, Notch LC, h.264
-* **Projection-Mapping**
+* [**Projection-Mapping**](led-workflow/)
 * LED Wall mapping
-* **Green Screen** compositing
-* Image-Based **Lighting**
+* [**Green Screen**](green-screen-workflow/) compositing
+* Image-Based [**Lighting**](lighting/)
 * Fast Nodal offset and lens calibration workflows
 
 **Some helpful links:**\
