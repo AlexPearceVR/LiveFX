@@ -9,3 +9,7 @@ The 2.5d concept is pretty simple, you have several 2d layers of pictures or vid
 If done well, you can make 2d elements look like 3d.&#x20;
 
 You can even combine some 3d elements with 2d elements as well, but this section will focus on 2d elements for now.&#x20;
+
+{% hint style="info" %}
+Make sure to check the section on [Defocus and Color Grading layers.](../cuebric-workflow/#defocus-and-color-grade-layers)
+{% endhint %}
