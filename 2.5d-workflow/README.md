@@ -13,3 +13,7 @@ You can even combine some 3d elements with 2d elements as well, but this section
 {% hint style="info" %}
 Make sure to check the section on [Defocus and Color Grading layers.](../cuebric-workflow/#defocus-and-color-grade-layers)
 {% endhint %}
+
+{% hint style="info" %}
+Make sure to see the section about [Defocus and Color Grading the layers](../cuebric-workflow/#defocus-and-color-grade-layers).
+{% endhint %}

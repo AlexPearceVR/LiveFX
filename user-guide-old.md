@@ -1,6 +1,4 @@
-# User Guide (Old)
-
-Assimilate Support POWER TO THE CREATORS Assimilate SupportHomeSearchGlossaryWelcome Guest ( Login | Register )Latest Additions Most PopularBrowse our collection of knowledgebase articles...KnowledgebaseBrowse our collection of available downloads...DownloadsHome » Knowledgebase » User Guide Live FX » 02 - Live FX User Guide 02 - Live FX User GuideExpand / Collapse
+# 📘 User Guide (Old)
 
 02 - Live FX User Guide General Live FX offers a toolset for virtual production in its broadest sense: live on-set compositing, pre-visualization, and LED wall projection. It includes media- and version management, metadata handling and recording options and as such allows you to both easily prepare live setups in advance as well as create relevant input for post-production. It also integrates image-based lightning (IBL) through DMX allowing you full control over the look and feel of a scene. Here are some examples of supported setups and workflows:
 
@@ -862,8 +860,3 @@ Denoise pre-option, to remove noise in the source image to create a cleaner key.
 
 Alpha output over SDI / Dual head Live FX offers the option to output the alpha channel of a (live capture) shot as a black and white image through an SDI output or through the dual head GPU output. This offers an opportunity to use the qualifier / keyer function of Live FX – including all layering and garbage mask functions, plug-ins and compositing options – for other systems downstream in the pipeline. The SDI output can be gen-locked and contains the active timecode of the shot / live captured input. To output the black/white matte just select the option with the Display settings in the Player – Settings – Monitors menu.
 
-Rate this Article:
-
-DetailsLast Modified:Wednesday, June 07, 2023 Type: INFO OptionsEmail ArticleEmail Article Print ArticlePrint Article Bookmark ArticleBookmark Article
-
-Execution: 0.031. 12 queries. Compression Disabled.
