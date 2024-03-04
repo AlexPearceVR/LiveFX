@@ -2,7 +2,7 @@
 
 ## Overview
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Graphic showing the basic concept of 2.5d. </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Graphic showing the basic concept of 2.5d. </p></figcaption></figure>
 
 The 2.5d concept is pretty simple, you have several 2d layers of pictures or videos as separate layers and you put them in various depths of your scene so that as you move your camera, they create a parallax effect, such that the foreground elements appear to move faster than the background elements.&#x20;
 
@@ -29,17 +29,17 @@ One benefit to having separate layers for the foreground, middle ground, and bac
 
 To defocus layers, select the layer you want to affect, go to the **Numeric tab,** and under Aperture, change the Defocus. I'll defocus the Sky, Water, Mountains and Rocks layers.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 You could also use the Lens Blur plug-in to get more extreme results.&#x20;
 
 Go to Plug-ins->Effects->Lens Blur and add on layer.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 Make any adjustments you want here, and make sure to Blur Alpha.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Manually set up 2.5d layers
 

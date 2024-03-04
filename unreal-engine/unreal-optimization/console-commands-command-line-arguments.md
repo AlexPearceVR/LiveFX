@@ -6,7 +6,7 @@ There are many properties that you can change in Unreal by passing console comma
 
 If you are in Unreal Engine, at the bottom left of the screen you can enter these commands where it says "Enter Console Command"&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 If you are simulating the game, or have already packaged a project, you can press the \` key on the keyboard (same place as \~) and it will prompt you.
 
@@ -14,11 +14,11 @@ These commands are only active until you close the project or game. When you re-
 
 Console commands and the .ini files are formatted a little differently, for example in the console you would enter "sg.ResolutionQuality 50" (notice the space between the world and the number)
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the .ini file, you would enter the same command "sg.ResolutionQuality=50" (notice the equal sign between the word and the number).
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 The commands are not case-sensitive, but it's good practice to match what Unreal Engine does.
@@ -38,7 +38,7 @@ cvars = Console Variables
 
 In a packaged project, the way to see the output log is to create a shortcut and pass the cvar "-log"
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Location of .ini files
 
