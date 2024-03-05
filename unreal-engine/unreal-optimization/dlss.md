@@ -8,6 +8,12 @@ NVIDIA DLSS 3.5 is a suite of AI rendering technologies powered by Tensor Cores 
 
 ## Setup your project
 
+{% hint style="danger" %}
+You must go to Settings, Graphics Settings and Turn on Hardware-Accelerated GPU Scheduling to see any difference in performance from DLSS!
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
+
 Go to [https://developer.nvidia.com/rtx/dlss/get-started#ue-requirements](https://developer.nvidia.com/rtx/dlss/get-started#ue-requirements) and download the plugins.&#x20;
 
 
