@@ -2,7 +2,7 @@
 
 ## Overview
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Graphic showing the basic concept of 2.5d. </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>Graphic showing the basic concept of 2.5d. </p></figcaption></figure>
 
 The 2.5d concept is pretty simple, you have several 2d layers of pictures or videos as separate layers and you put them in various depths of your scene so that as you move your camera, they create a parallax effect, such that the foreground elements appear to move faster than the background elements.&#x20;
 

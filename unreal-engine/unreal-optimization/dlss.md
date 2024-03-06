@@ -16,11 +16,106 @@ NVIDIA DLSS 3.5 is a suite of AI rendering technologies powered by Tensor Cores 
 You must go to Settings, Graphics Settings, and Turn on Hardware-Accelerated GPU Scheduling to see any difference in performance from DLSS!
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
+Press the Windows key and search for Graphics Settings, and turn on Hardware-accelerated GPU scheduling. Restart your computer.
 
-## Setup your project
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-Go to [https://developer.nvidia.com/rtx/dlss/get-started#ue-requirements](https://developer.nvidia.com/rtx/dlss/get-started#ue-requirements) and download the plugins.&#x20;
+Optionally, you may want to update your GPU drivers.&#x20;
+
+## Download and Install the Plugins
+
+1.  Go to [https://developer.nvidia.com/rtx/dlss/get-started#ue-requirements](https://developer.nvidia.com/rtx/dlss/get-started#ue-requirements) and download the plugins. \
 
 
+    <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+2.  Unzip the folder and go into the folder. Go to the folder inside called Plugins, and copy these plugins. \
+
+
+    <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+
+3.  You can install the plugins to your Unreal Engine plugins or to your project plugins. We recommend installing it to individual projects. To do this, go to your project folder, if there is not already a folder called "Plugins", create one. Make sure to capitalize the P and make sure it's spelled exactly Plugins. \
+    \
+    Paste the folders inside this Plugins folder. \
+
+
+    <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+
+4. If you had Unreal Engine open, restart it now.&#x20;
+
+## Working with DLSS in Unreal Engine
+
+You can change the settings by going to Project Settings and typing in dlss.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+In the Command Prompt, enter "stat gpu" and check to see if DLSS shows up. You can type "stat gpu" again to make the overlay go away.&#x20;
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+
+
+## Helpful Console Commands
+
+### Nvidia Image Scaling (NIS)
+
+NIS upscaling in-game: The following console variables can be set to enable NIS:
+
+1\. r.NIS.Enable 1\
+2\. r.NIS.Upscaling1\
+3\. r.ScreenPercentage 50\
+4\. r.TemporalAA.Upsampling0 5. r.TemporalAA.Upscaler 0\
+6\. Optional r.NIS.Sharpness 0.5
+
+NIS sharpening in-game: The following console variables can be set to enable a NIS sharpening pass regardless of whether temporal or spatial upscaling is used.
+
+1\. r.NIS.Enable 1\
+2\. r.NIS.Sharpness 0.5
+
+### Super Resolution
+
+1\. r.NGX.Enable 1 (can be overriden on the command line with -ngxenable) \
+2\. r.NGX.DLSS.Enable 1\
+3\. r.ScreenPercentage 66.7
+
+### Frame Generation
+
+The DLSS Frame Generation plugin uses various engine side hooks, which can be configured by the following cvars. Their default values
+
+r.Streamline.ViewIdOverride\
+0: use ViewState.UniqueID\
+1: on set view ID to 0 (default)
+
+r.Streamline.TagSceneColorWithoutHUD\
+Pass scene color without HUD into DLSS Frame Generation (default = true)
+
+r.Streamline.Editor.TagSceneColorWithoutHUD\
+Pass scene color without HUD into DLSS Frame Generation in the editor (default = false)
+
+r.Streamline.ClearSceneColorAlpha\
+Clear alpha of scenecolor at the end of the Streamline view extension to allow subsequent UI drawcalls be represented correctly in the alpha channel (default=true)
+
+r.Streamline.Editor.TagUIColorAlpha\
+Experimental: Pass UI color and alpha into Streamline in Editor PIE windows (default = false)
+
+Finetuning motion vectors for DLSS Frame Generation
+
+DLSS Frame Generation requires correct motion vectors to function properly. The following console variable can be used to tweak values during game development
+
+r.Streamline.DilateMotionVectors
+
+0: pass low resolution motion vectors into DLSS Frame Generation (default)\
+1: pass dilated high resolution motion vectors into DLSS Frame Generatio. This can help with improving image quality of thin details.
+
+r.Streamline.MotionVectorScale\
+Scale DLSS Frame Generation motion vectors by this constant, in addition to the scale by 1/ the view rect size. (default = 1.0)
+
+Finetuning depth for DLSS Frame Generation
+
+r.Streamline.CustomCameraNearPlane\
+Custom distance to camera near plane. Used for internal DLSS Frame Generation purposes, does not need to match corresponding value used by engine. (default = 0.01)
+
+r.Streamline.CustomCameraFarPlane\
+Custom distance to camera far plane. Used for internal DLSS Frame Generation purposes, does not need to match the corresponding value used by engine. (default = 75000.0)
 
