@@ -8,7 +8,7 @@ If you want to send one wall via dual head, one via SDI, or 4 walls via individu
 2.  Hit the **Switcher** button under the Utilities\
 
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 3.  This will create a new shot that will stick to your mouse, bring it over to the Left side menu, and with your mouse over Add, left click, which will create a new Timeline with this switcher node.

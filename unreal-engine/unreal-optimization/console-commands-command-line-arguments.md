@@ -14,7 +14,7 @@ These commands are only active until you close the project or game. When you re-
 
 Console commands and the .ini files are formatted a little differently, for example in the console you would enter "sg.ResolutionQuality 50" (notice the space between the world and the number)
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the .ini file, you would enter the same command "sg.ResolutionQuality=50" (notice the equal sign between the word and the number).
 
