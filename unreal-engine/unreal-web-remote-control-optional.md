@@ -12,6 +12,12 @@ Web Control goes a lot deeper and there are many things to learn, this training 
 This plugin makes it easy to control UE through a web browser, and is helpful for Virtual Production in general, but is not required for Live FX to work properly.
 {% endhint %}
 
+{% hint style="danger" %}
+Not all parameters work when you package your project, even if they work in the editor. And not all parameters work when you use the -RenderOffscreen option.&#x20;
+
+Custom Blueprints with Construction scripts that control variables don't seem to work when packaging games.&#x20;
+{% endhint %}
+
 For more information on Web Remote Control, visit the documentation:\
 [https://docs.unrealengine.com/5.3/en-US/remote-control-web-application-for-unreal-engine/](https://docs.unrealengine.com/5.3/en-US/remote-control-web-application-for-unreal-engine/)
 
