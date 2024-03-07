@@ -4,6 +4,8 @@
 
 You can use OSC to do many things. We are going to create a layer in Live FX and use it to drive our Sun in Unreal Engine.&#x20;
 
+
+
 ## Set up Live FX
 
 1. Go to Live FX Menu>Live Links
@@ -24,7 +26,15 @@ You can use OSC to do many things. We are going to create a layer in Live FX and
 
 ## Set up Unreal Engine
 
-1.  In your Level Blueprint (or you could create a new one), of Event Begin Play, add the node **Create OSCServer.** \
+You can find the whole blueprint here, copy and paste it into your Level Blueprint, and then connect the Event Begin Play to the Create OSC Server Exec pin. It may have some errors, but you should be able to fix them by following the instructions below.&#x20;
+
+{% embed url="https://blueprintue.com/blueprint/m6-a4t3l/" %}
+\\
+{% endembed %}
+
+Manual Instructions for creating the Blueprint.
+
+1.  In your Level Blueprint (or you could create a new one), from **Event Begin Play**, add the node **Create OSCServer.** \
     \
     1\. For the IP Address you can use 0.0.0.0. \
     2\. For the Port use 9003 or whatever you set in Live FX\
@@ -111,6 +121,13 @@ You can use OSC to do many things. We are going to create a layer in Live FX and
     <figure><img src="../.gitbook/assets/image (271).png" alt=""><figcaption></figcaption></figure>
 
 
+
+## Control in Live FX
+
+Back in Live FX, to control the X, Y, and Z, you click on the top layer, select the Canvas menu at the bottom left, and then you can use the Rotate X, Y, and Z to control the Sun in Unreal Engine (must be in play mode). \
+
+
+<figure><img src="../.gitbook/assets/image (273).png" alt=""><figcaption></figcaption></figure>
 
 ## Custom Blueprints
 
