@@ -75,6 +75,7 @@
   * [How to Package an Unreal Engine Project for Live FX](unreal-engine/how-to-package-an-unreal-engine-project-for-live-fx/README.md)
     * [Command Line Arguments](unreal-engine/how-to-package-an-unreal-engine-project-for-live-fx/command-line-arguments.md)
     * [Before You Package](unreal-engine/how-to-package-an-unreal-engine-project-for-live-fx/before-you-package.md)
+  * [Control UE through OSC](unreal-engine/control-ue-through-osc.md)
   * [Working with Sequencer](unreal-engine/working-with-sequencer.md)
   * [Unreal Optimization](unreal-engine/unreal-optimization/README.md)
     * [Console Commands / Command Line Arguments](unreal-engine/unreal-optimization/console-commands-command-line-arguments.md)
