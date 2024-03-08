@@ -6,6 +6,16 @@ You can use OSC to do many things. We are going to create a layer in Live FX and
 
 
 
+Live FX currently has one way of using OSC that uses the first layer's Canvas transform controls, to control custom properties in Unreal Engine via a blueprint the user can set up.
+
+There are a total of 9 float values that can be used in Unreal Engine, they correspond to the following properties in the Canvas menu (of the top dummy layer).&#x20;
+
+The numbers here correspond to the Index numbers in the **Get OSC Message Float At Index** node in Unreal Engine
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 ## Set up Live FX
 
 1. Go to Live FX Menu>Live Links
@@ -82,7 +92,9 @@ Manual Instructions for creating the Blueprint.
 
     <figure><img src="../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
 
+    :bulb:Remember, the numbers that correspond in Live FX are the following from the top dummy layer:
 
+    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 8.  From the left-side, drag over the Message Variable and select Get Message. \
 
 

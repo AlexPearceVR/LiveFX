@@ -9,9 +9,11 @@
 
 ## Overview
 
-Live FX works differently with Unreal Engine than most other media servers.&#x20;
+Live FX works differently with Unreal Engine than many other media servers. There are many benefits to the way we handle certain aspects of the Unreal Engine workflow.&#x20;
 
+The main preferred way of working with Unreal Engine and LED walls is to run the Unreal Engine project as a game or to package the project to an .exe file. There are a few benefits to working this way that we will go over in different ways throughout the documentation.&#x20;
 
+The main method we use to control parameters in Unreal Engine is through Web Remote Control.&#x20;
 
 ## LED Unreal Workflow
 
