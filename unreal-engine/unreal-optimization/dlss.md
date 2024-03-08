@@ -5,7 +5,7 @@
 DLSS is a major performance enhancer for Unreal Engine, that is easy to set up and doesn't cost anything!
 
 {% hint style="warning" %}
-You may not get any performance increases in the editor or even in Play mode, you might have to package to an .exe file to see any benefits.&#x20;
+You may not get any performance increases in the editor or even in Play mode, you might have to Play the Project as a game or package to an .exe file to see any benefits.&#x20;
 {% endhint %}
 
 To launch your game like a packaged project, you can go to the Play menu, Quick Launch, and click on your Desktop name. (You may need to set up your package settings first, and the first time you package, it may take a long time to package. Even for a simple scene, it can take 30 minutes on a powerful machine for the first build. Subsequent builds can be less than 5 minutes).
