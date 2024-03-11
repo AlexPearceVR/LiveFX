@@ -147,5 +147,11 @@ You can create a blueprint and add many components to it, then you can go to the
 
 <figure><img src="../.gitbook/assets/image (272).png" alt=""><figcaption></figcaption></figure>
 
+Here is another example. For headlights in a city scene, we used a blueprint called "00\_BP\_Headlights",  which is a simple actor blueprint with a single Spot Light component.
 
+Inside of each vehicle blueprint, we brought in this blueprint twice, these two act like the headlights.&#x20;
+
+In the Level blueprint, we Get OSC Message Float At Index, then Get All Actors Of Class. We select the class 00\_BP\_Headlights, then add a For Each Loop, and set the intensity to the Value set in the OSC message.
+
+<figure><img src="../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure>
 
