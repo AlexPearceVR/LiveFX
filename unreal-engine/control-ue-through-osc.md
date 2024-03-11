@@ -8,13 +8,27 @@ You can use OSC to do many things. We are going to create a layer in Live FX and
 
 Live FX currently has one way of using OSC that uses the first layer's Canvas transform controls, to control custom properties in Unreal Engine via a blueprint the user can set up.
 
-There are a total of 9 float values that can be used in Unreal Engine, they correspond to the following properties in the Canvas menu (of the top dummy layer).&#x20;
+There are a total of 8 float values that can be used in Unreal Engine, they correspond to the following properties in the Canvas menu (of the top dummy layer).&#x20;
 
-The numbers here correspond to the Index numbers in the **Get OSC Message Float At Index** node in Unreal Engine
+The numbers here correspond to the Index numbers in the **Get OSC Message Float At Index** node in Unreal Engine:
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+You can set these numbers to control many different areas of your Unreal Engine Scene, but for us, the default settings we will use will be to reserve 0 for Sky Light Intensity and we'll reserve 5,6,7 for Intensity and location in the sky:\
+&#x20;
+
+0: Sky Light Intensity \
+5: Directional Light Intensity\
+6: Directional Light Pitch\
+7: Directional Light Roll
+
+<figure><img src="../.gitbook/assets/image (284).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (285).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (287).png" alt=""><figcaption></figcaption></figure>
 
 ## Set up Live FX
 
@@ -38,9 +52,13 @@ The numbers here correspond to the Index numbers in the **Get OSC Message Float 
 
 You can find the whole blueprint here, copy and paste it into your Level Blueprint, and then connect the Event Begin Play to the Create OSC Server Exec pin. It may have some errors, but you should be able to fix them by following the instructions below.&#x20;
 
-{% embed url="https://blueprintue.com/blueprint/m6-a4t3l/" %}
-\\
-{% endembed %}
+[https://blueprintue.com/blueprint/m6-a4t3l/](https://blueprintue.com/blueprint/m6-a4t3l/)
+
+\
+Here is another pastebin with a few more things added, that will serve as a template of sorts, for OSC.
+
+[https://blueprintue.com/blueprint/hpe6xzd2/](https://blueprintue.com/blueprint/hpe6xzd2/)\
+
 
 Manual Instructions for creating the Blueprint.
 
