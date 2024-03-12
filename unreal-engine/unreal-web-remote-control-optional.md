@@ -12,7 +12,7 @@ Web Control goes a lot deeper and there are many things to learn, this training 
 This plugin makes it easy to control UE through a web browser, and is helpful for Virtual Production in general, but is not required for Live FX to work properly.
 {% endhint %}
 
-{% hint style="danger" %}
+{% hint style="info" %}
 Not all parameters work when you package your project, even if they work in the editor. And not all parameters work when you use the -RenderOffscreen option.&#x20;
 
 Custom Blueprints with Construction scripts that control variables don't seem to work when packaging games.&#x20;
@@ -20,6 +20,19 @@ Custom Blueprints with Construction scripts that control variables don't seem to
 
 For more information on Web Remote Control, visit the documentation:\
 [https://docs.unrealengine.com/5.3/en-US/remote-control-web-application-for-unreal-engine/](https://docs.unrealengine.com/5.3/en-US/remote-control-web-application-for-unreal-engine/)
+
+
+
+{% hint style="danger" %}
+If WebRemote by any chance doesn't start, if UE says "Failed to build WebApp" error, this is what steps you need to do:\
+
+
+Navigate to WebApp folder in (your local installation path >UE\_5.3/Engine/Plugins/VirtualProduction/RemotecontrolWebInterface/Webapp \
+\
+In WebApp folder, delete the Node-v16.17.0 (in my case what it was called) UE expects Node.js minimum version: 8. - maximum version: 14.15.5.
+
+Start up UE, in your project double-click on your WebRemote Preset and UE should start building WebRemote dependencies.
+{% endhint %}
 
 ## 1. Install Web Remote Control
 
