@@ -12,6 +12,14 @@ The first time you package your project, it has to cook everything and it usuall
 Some errors you get may be due to plugins that are enabled and do not need to be packaged. For example, I had Nvidia's OptiX denoiser and I got an error that stated&#x20;
 {% endhint %}
 
+### Install Microsoft Visual Studio
+
+First, you must install a specific version of Microsoft Visual Studio, in a very specific way. Follow these instructions for 5.3, or search for the version you need:
+
+{% embed url="https://dev.epicgames.com/documentation/en-us/unreal-engine/setting-up-visual-studio-development-environment-for-cplusplus-projects-in-unreal-engine/2" %}
+
+### Package Project
+
 To package your project, go to **`Platforms>Windows>Package Project.`**
 
 Navigate to a folder where you want it to go and press accept.
