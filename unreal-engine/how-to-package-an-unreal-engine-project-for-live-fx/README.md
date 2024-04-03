@@ -16,7 +16,17 @@ Some errors you get may be due to plugins that are enabled and do not need to be
 
 First, you must install a specific version of Microsoft Visual Studio, in a very specific way. Follow these instructions for 5.3, or search for the version you need:
 
+
+
 {% embed url="https://dev.epicgames.com/documentation/en-us/unreal-engine/setting-up-visual-studio-development-environment-for-cplusplus-projects-in-unreal-engine/2" %}
+
+Here are some other helpful resources:
+
+EP01 Setting Up Visual Studio 2022 for Unreal Engine 5:\
+[https://www.youtube.com/watch?v=HLwwpLYvY5Y](https://www.youtube.com/watch?v=HLwwpLYvY5Y)\
+\
+How to install Android SDK Platform Tools (ADB & FASTBOOT) on Windows 11 / Windows 10:\
+[https://www.youtube.com/watch?v=OSp5\_wBAVyQ](https://www.youtube.com/watch?v=OSp5\_wBAVyQ)
 
 ### Package Project
 
