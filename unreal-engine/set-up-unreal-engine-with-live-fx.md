@@ -148,6 +148,21 @@ I use the prefix 00\_ so that it **shows up at the top**.
 
 
 
+{% hint style="info" %}
+When you press play if the selected camera is not playing in the viewport, you may want to set up manually.
+{% endhint %}
+
+Optionally, instead of adding the "LiveFX\_RuntimeCamera as a component to the camera, you can add it in the level blueprint, and by doing so, also allow for things like switching cameras dynamically.&#x20;
+
+You would set your blueprint up like this, drag your camera from the outliner into the level blueprint to get a reference of it, and replace the "0\_Zeiss\_CineCameraActor" reference with your camera:\
+
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+A copy of this blueprint is provided here:
+
+[https://blueprintue.com/blueprint/dhaupwq4/](https://blueprintue.com/blueprint/dhaupwq4/)
+
 ## 7. Set up Texture Share in Live FX
 
 There are a few ways to work with the **Texture Share** image that comes from Unreal Engine.&#x20;

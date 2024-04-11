@@ -12,7 +12,7 @@ Zig Sim Pro is an iPhone app that we can use for Camera Tracking in Live FX. It 
 2.  In the app, Enable the ARKit by tapping just to the left of the name, you should see a checkbox. Make sure nothing else is checked.\
 
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
     \
     The default ARKit settings should be fine, but if you click on the arrow, you can make sure they are set like this. Tracking Type Device and Feature Points On.
