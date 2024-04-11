@@ -10,14 +10,14 @@ There are several known issues that hopefully we can address in the near future,
     My current thinking is to use the Auto Record function and just be VERY diligent in setting the correct Scene and Take in both Live FX and Unreal Engine. \
 
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 3. In Live FX, if the timecode source is sdi and there is no timecode coming through that sdi signal, it will lock the Unreal Engine Live Link.&#x20;
 4.  You cannot record the Full Shot option from the Record settings. If you want to record the comp you would need to find another way of doing so. \
     \
     I recommend using an external recorder as your dual head if possible, and recording the comp onto that. \
 
 
-    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Cannot Record the Full Shot</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Cannot Record the Full Shot</p></figcaption></figure>
 5. Currently there is no pipeline to import the USD that is recorded from Live FX and get that into Unreal Engine.&#x20;
 6. The only way to control custom things in your scene directly in Live FX is a [short-term hack](control-ue-through-osc.md). You are better off building your own OSC interface using something like Open Stage Control if you need to fully control UE outside of UE.&#x20;
 

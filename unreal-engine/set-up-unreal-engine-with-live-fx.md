@@ -157,7 +157,7 @@ Optionally, instead of adding the "LiveFX\_RuntimeCamera as a component to the c
 You would set your blueprint up like this, drag your camera from the outliner into the level blueprint to get a reference of it, and replace the "0\_Zeiss\_CineCameraActor" reference with your camera:\
 
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 A copy of this blueprint is provided here:
 
