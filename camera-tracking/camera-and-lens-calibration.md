@@ -51,3 +51,13 @@ At 6k 17:9 the crop factor is 1.42 and the Focal Length is 34mm.
 
 <figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption><p>At 6k 17:9, the crop factor is 1.42x and Focal Length is 34mm</p></figcaption></figure>
 
+
+
+## Testing and validating your calibration
+
+Here is a link to a USD model of an Inverted Cone, which you can use to calibrate your camera:\
+[https://www.dropbox.com/scl/fi/x1m4tyy21ezxdsrb6h9h0/00\_InvertedCone\_510\_100x.usdz?rlkey=xln83c4l3c2105yaf2f3ppxw8\&dl=0](https://www.dropbox.com/scl/fi/x1m4tyy21ezxdsrb6h9h0/00\_InvertedCone\_510\_100x.usdz?rlkey=xln83c4l3c2105yaf2f3ppxw8\&dl=0)\
+\
+You can load this by creating a new layer>Plug Ins and selecting USD (only available for Windows currently.
+
+With this inverted cone, you should be able to see your world origin and verify if the world is slipping or not and if your world origin set by your tracking system (Or in Live FX) is where you think it should be.&#x20;
