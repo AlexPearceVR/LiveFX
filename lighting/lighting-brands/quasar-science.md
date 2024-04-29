@@ -2,6 +2,10 @@
 
 ## How to set up Quasar Science lights in Live FX
 
+{% hint style="danger" %}
+**Make sure you have the** [**latest firmware**](https://www.quasarscience.com/pages/firmware-updates) **before getting set up, if your firmware is too old, the following steps will not work.**
+{% endhint %}
+
 Watch the tutorial here:
 
 {% embed url="https://youtu.be/DTVNb0to3YE" %}
