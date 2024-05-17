@@ -72,7 +72,7 @@
     * [Quasar Science](lighting/lighting-brands/quasar-science.md)
   * [How to Sample Multiple Video Sources through Videowall](lighting/how-to-sample-multiple-video-sources-through-videowall.md)
 * [🎮 Unreal Engine](unreal-engine/README.md)
-  * [Known Issues](unreal-engine/known-issues.md)
+  * [Known Issues with Live FX <> Unreal](unreal-engine/known-issues-with-live-fx-less-than-greater-than-unreal.md)
   * [Set up Unreal Engine with Live FX](unreal-engine/set-up-unreal-engine-with-live-fx.md)
   * [Play your Unreal Engine scene as a Game](unreal-engine/play-your-unreal-engine-scene-as-a-game.md)
   * [How to Package an Unreal Engine Project for Live FX](unreal-engine/how-to-package-an-unreal-engine-project-for-live-fx/README.md)
