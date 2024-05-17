@@ -9,7 +9,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-Live FX with Unreal Engine, for ICVFX captured in camera can be a viable solution with proper testing in advance.&#x20;
+Live FX with Unreal Engine, for ICVFX captured in camera can be a viable solution with proper testing in advance and with the assumption that you never have to go back and re-render anything from the UE project.
 {% endhint %}
 
 
