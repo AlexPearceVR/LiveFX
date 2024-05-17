@@ -6,7 +6,7 @@ You can manually set up a 2.5d shot by adding in layers and putting them in vari
 2.  Add a Filler to the timeline and enter the shot.\
 
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 3.  If you want to increase the shot duration, go to the Live FX Menu and change the out number to something longer, like 1000 frames. \

@@ -37,7 +37,7 @@ For you to use Nvidia Mosaic, you must have a Quadro line card, like the Nvidia 
 1.  From the Construct, open the Projection Setup\
 
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 2.  Click on Edit.\
 
 

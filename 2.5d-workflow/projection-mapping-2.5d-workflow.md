@@ -10,7 +10,7 @@ You can manually set up a 2.5d shot with projection mapping by adding in layers 
 3.  If you want to increase the shot duration, go to the Live FX Menu and change the out number to something longer, like 1000 frames. \
 
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 4.  Right-click and import your files one at a time, you may want to click on "Still Frame" if you are importing images.\
