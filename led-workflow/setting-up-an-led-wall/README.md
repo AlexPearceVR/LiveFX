@@ -26,11 +26,13 @@ If you only have one LED Processor that drives your wall(s), then you can skip t
 
 If your system architecture requires two or more LED processors, then you set up your system to either use Nvidia Mosaic or take the outputs directly from an SDI capture card.&#x20;
 
-There are pros and cons to both methods, but generally, Nvidia Mosaic is the preferred method because SDI out will always have a few frames of delay, and directly out of your GPU will have no delay.&#x20;
-
-For you to use Nvidia Mosaic, you must have a Quadro line card, like the Nvidia a6000.&#x20;
+There are pros and cons to both methods, but generally, Nvidia Mosaic is the preferred method because SDI out will always have a few frames of delay, and directly out of your GPU will have no delay. For you to use Nvidia Mosaic, you must have a Quadro line card, like the Nvidia RTX A6000.&#x20;
 
 [Go to this link for instructions to set up Nvidia Mosaic.](set-up-nvidia-mosaic.md)
+
+When going out the GPU - with or without Nvidia Mosaic setup - make sure you have Vertical Sync enabled in Live FX. You can find the corresponding setting by going to the Live FX Tab ==> Settings menu (hotkey F5) under the Play Options.&#x20;
+
+If you go out the GPU, ensure that no Video-IO devices are enabled because if they are, then LFX will sync playback on the first Video-IO output rather than the Dual Head VSync. If you do need Video-IO, then explicitly set the Sync-dropdown (in the same menu as the VSync) to "Timer" rather than "Automatic".
 
 ## 3. Setup LED Wall
 
