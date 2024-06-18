@@ -11,7 +11,7 @@ Notice in the screenshot below the scale is almost 1000x. \
 You may need to exaggerate the scale and move the layer in Z depth for it to work properly with your camera tracking.&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 It helps to enter **Dual View** (Shortcut D) and enter **Perspective View** (shortcut P) to see what's happening and to adjust.
 
@@ -19,7 +19,7 @@ To navigate around Perspective view, use Left Click + drag to orbit around the s
 
 In the example below, the orange Square shows where it is overlaid in the Perspective View (left) and how it looks in the composite (right)
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

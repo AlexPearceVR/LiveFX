@@ -1,2 +1,2 @@
-# General Troubleshooting
+# 🆘 General Troubleshooting
 

@@ -12,9 +12,9 @@ There are a total of 8 float values that can be used in Unreal Engine, they corr
 
 The numbers here correspond to the Index numbers in the **Get OSC Message Float At Index** node in Unreal Engine:
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can set these numbers to control many different areas of your Unreal Engine Scene, but for us, the default settings we will use will be to reserve 0 for Sky Light Intensity and we'll reserve 5,6,7 for Intensity and location in the sky:\
 &#x20;
@@ -112,7 +112,7 @@ Manual Instructions for creating the Blueprint.
 
     :bulb:Remember, the numbers that correspond in Live FX are the following from the top dummy layer:
 
-    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 8.  From the left-side, drag over the Message Variable and select Get Message. \
 
 
