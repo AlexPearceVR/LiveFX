@@ -4,11 +4,11 @@ You can have Live FX automatically trigger Take Recorder when you press record i
 
 1.  [When setting up your Live Link](set-up-unreal-engine-with-live-fx.md#id-4.-enable-live-link), make sure to check Auto Record.&#x20;
 
-    <figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 2.  In Unreal Engine, go to Window>Take Recorder\
     Change Countdown from 3.0 Seconds to 0. \
 
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

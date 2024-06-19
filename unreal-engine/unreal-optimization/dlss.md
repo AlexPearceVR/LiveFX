@@ -10,7 +10,7 @@ You may not get any performance increases in the editor or even in Play mode, yo
 
 To launch your game like a packaged project, you can go to the Play menu, Quick Launch, and click on your Desktop name. (You may need to set up your package settings first, and the first time you package, it may take a long time to package. Even for a simple scene, it can take 30 minutes on a powerful machine for the first build. Subsequent builds can be less than 5 minutes).
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -34,7 +34,7 @@ You must go to Settings, Graphics Settings, and Turn on Hardware-Accelerated GPU
 
 Press the Windows key and search for Graphics Settings, and turn on Hardware-accelerated GPU scheduling. Restart your computer.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Optionally, you may want to update your GPU drivers.&#x20;
 
@@ -43,11 +43,11 @@ Optionally, you may want to update your GPU drivers.&#x20;
 1.  Go to [https://developer.nvidia.com/rtx/dlss/get-started#ue-requirements](https://developer.nvidia.com/rtx/dlss/get-started#ue-requirements) and download the plugins. \
 
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 2.  Unzip the folder and go into the folder. Go to the folder inside called Plugins, and copy these plugins. \
 
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 3.  You can install the plugins to your Unreal Engine plugins or to your project plugins. We recommend installing it to individual projects. To do this, go to your project folder, if there is not already a folder called "Plugins", create one. Make sure to capitalize the P and make sure it's spelled exactly Plugins. \
@@ -55,24 +55,24 @@ Optionally, you may want to update your GPU drivers.&#x20;
     Paste the folders inside this Plugins folder. \
 
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 4. If you had Unreal Engine open, restart it now.&#x20;
 5.  Check to make sure Nvidia Dlss Frame Generation, Super Resolution, and NIS are enabled.\
 
 
-    <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Working with DLSS in Unreal Engine
 
 You can change the settings by going to Project Settings and typing in dlss.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the Command Prompt, enter "stat gpu" and check to see if DLSS shows up. You can type "stat gpu" again to make the overlay go away.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
