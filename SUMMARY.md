@@ -36,7 +36,7 @@
 * [📼 Video Playback](video-playback/README.md)
   * [Video-IO Settings](video-playback/video-io-settings.md)
   * [Playback h.264 files](video-playback/playback-h.264-files.md)
-  * [Import Media and maintain Folder Structure](video-playback/import-media-and-maintain-folder-structure.md)
+  * [Import Media and Maintain Folder Structure](video-playback/import-media-and-maintain-folder-structure.md)
 * [🎥 Camera Tracking](camera-tracking/README.md)
   * [Camera and Lens Calibration](camera-tracking/camera-and-lens-calibration.md)
   * [Camera Trackers](camera-tracking/camera-trackers/README.md)

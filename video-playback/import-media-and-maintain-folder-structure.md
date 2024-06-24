@@ -1,4 +1,4 @@
-# Import Media and maintain Folder Structure
+# Import Media and Maintain Folder Structure
 
 There are many ways to import media files and you may want to maintain your folder structure. Here is a video tutorial that might be helpful:
 
