@@ -8,18 +8,18 @@ If you want to send one wall via dual head, one via SDI, or 4 walls via individu
 2.  Hit the **Switcher** button under the Utilities\
 
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 3.  This will create a new shot that will stick to your mouse, bring it over to the Left side menu, and with your mouse over Add, left click, which will create a new Timeline with this switcher node.
 
-    <figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 4. Drop the Shot on the timeline and then double-click on it to enter the shot.\
 
 5.  With Primaries selected, go to the Switcher menu and click on Channel Controller, then go to the Displays tab.\
 
 
-    <figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 6. Route all your inputs to your SDI outputs, or to Dual Head as needed.

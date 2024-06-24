@@ -11,15 +11,15 @@ Let's say we want to bring in a Z-Depth Matte, to control the Depth Of Field of 
 5.  Drop the matte in the "Drop Layer Matte" field\
 
 
-    <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 6.  Change the layers to NOT use the Alpha channel. \
     This is incorrect:
 
-    <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>The matte is not correct because the Alpha channel is enabled and black and white mattes do not contain an alpah channel.</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>The matte is not correct because the Alpha channel is enabled and black and white mattes do not contain an alpah channel.</p></figcaption></figure>
 
     This is correct:
 
-    <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>With the A turned off, the matte looks correct.</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>With the A turned off, the matte looks correct.</p></figcaption></figure>
 
 
 

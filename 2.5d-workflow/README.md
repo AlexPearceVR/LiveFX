@@ -1,6 +1,6 @@
 # 🧊 2.5d Workflow
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Graphic showing the basic concept of 2.5d. </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Graphic showing the basic concept of 2.5d. </p></figcaption></figure>
 
 The concepts for 2.5d are very similar to Cuebric, with a little more manual work involved. See the section on Cuebric for more.&#x20;
 
