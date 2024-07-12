@@ -2,9 +2,9 @@
 
 In the Construct, Click on Filler and Select Black.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Drop the Black Frame on the Timeline.
 
@@ -28,7 +28,7 @@ Now double-click on the Black frame to enter the shot.&#x20;
 
 Go to the Media tab and make sure that the settings are Rec2020, Gamma 2.4
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Change the shot length
 

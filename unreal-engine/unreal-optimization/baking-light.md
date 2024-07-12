@@ -18,7 +18,7 @@ Light baking is an excellent way to improve performance, but it is somewhat of a
 2.  Go to Edit>Project Settings. Search Hardware Raytracing and Enable **Use Hardware Ray Tracing when available** and **Support Hardware Ray Tracing**.\
 
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 3.  Also in Project Settings, search Virtual Texture and check **Enable Virtual Texture Support.** \
@@ -26,7 +26,7 @@ Light baking is an excellent way to improve performance, but it is somewhat of a
     **MAKE SURE TO ENABLE VIRTUAL TEXTURE LIGHTMAPS AS WELL.** \
 
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 4.  Also in Project Settings, search Global Illumination and change to None.\

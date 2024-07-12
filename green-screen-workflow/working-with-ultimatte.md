@@ -21,13 +21,13 @@ The Blackmagic Design Ultimatte is an alternative way to key out your footage.&#
     Make sure you turn your Video IO on, enable the two outputs and press apply. You should be able to see the foreground and matte in the preview after you apply the settings. \
 
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 4.  In the construct, click on Live Setup, use the Basic Capture method, and select the Foreground camera in the Live Capture selection menu. \
     &#x20;
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 5.  Repeat the last step but use the Matte in the foreground menu. You can rename it here if you want, or you can rename later.\

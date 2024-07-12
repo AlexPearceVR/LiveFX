@@ -14,7 +14,7 @@ The numbers here correspond to the Index numbers in the **Get OSC Message Float 
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can set these numbers to control many different areas of your Unreal Engine Scene, but for us, the default settings we will use will be to reserve 0 for Sky Light Intensity and we'll reserve 5,6,7 for Intensity and location in the sky:\
 &#x20;

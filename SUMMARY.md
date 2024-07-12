@@ -82,6 +82,7 @@
     * [Video IO Settings](lighting/rec2020-example-project/video-io-settings.md)
     * [Create and Set up your Project](lighting/rec2020-example-project/create-and-set-up-your-project.md)
     * [Create and set up your Shot](lighting/rec2020-example-project/create-and-set-up-your-shot.md)
+    * [Fix Jitter](lighting/rec2020-example-project/fix-jitter.md)
 * [🎮 Unreal Engine](unreal-engine/README.md)
   * [Known Issues with Live FX <> Unreal](unreal-engine/known-issues-with-live-fx-less-than-greater-than-unreal.md)
   * [Set up Unreal Engine with Live FX](unreal-engine/set-up-unreal-engine-with-live-fx.md)
