@@ -12,13 +12,13 @@ Light baking is an excellent way to improve performance, but it is somewhat of a
 1.  Go to Edit>Plugins. Search for GPU Lightmass and Enable\
 
 
-    <figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 2.  Go to Edit>Project Settings. Search Hardware Raytracing and Enable **Use Hardware Ray Tracing when available** and **Support Hardware Ray Tracing**.\
 
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 3.  Also in Project Settings, search Virtual Texture and check **Enable Virtual Texture Support.** \
@@ -26,17 +26,17 @@ Light baking is an excellent way to improve performance, but it is somewhat of a
     **MAKE SURE TO ENABLE VIRTUAL TEXTURE LIGHTMAPS AS WELL.** \
 
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 4.  Also in Project Settings, search Global Illumination and change to None.\
 
 
-    <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 5.  Probably not needed, but you can also go to your post-process volume and change your Global Illumination to None and Reflections to None.\
 
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 6. Restart your project.
@@ -46,16 +46,16 @@ Light baking is an excellent way to improve performance, but it is somewhat of a
 You will want to go through all of your lights and environment lighting and determine if you want them to be static or stationary. If unsure, just use Stationary.\
 
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You may want to set your Skylight to Real Time Capture.\
 
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 I will change these point lights to Stationary as well.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Set up your Objects
 
@@ -71,7 +71,7 @@ You need to determine which objects in your scene need to be set to Static, Stat
 Go to Build>GPU Lightmass to open the window.\
 
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the GPU Lightmass tab, uncheck "Viewport Realtime is OFF".&#x20;
 
