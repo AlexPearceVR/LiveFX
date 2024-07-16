@@ -59,6 +59,7 @@
 * [📺 LED Workflow](led-workflow/README.md)
   * [Setting up an LED Wall](led-workflow/setting-up-an-led-wall/README.md)
     * [Set Up Nvidia Mosaic](led-workflow/setting-up-an-led-wall/set-up-nvidia-mosaic.md)
+    * [Nvidia Multi-GPU Configuration](led-workflow/setting-up-an-led-wall/nvidia-multi-gpu-configuration.md)
   * [Stage Manager](led-workflow/stage-manager.md)
   * [How to make the inner frustum green](led-workflow/how-to-make-the-inner-frustum-green.md)
   * [Switcher Node](led-workflow/switcher-node.md)
