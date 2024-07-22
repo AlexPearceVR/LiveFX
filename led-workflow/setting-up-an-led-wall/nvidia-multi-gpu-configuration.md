@@ -9,4 +9,4 @@ Live FX Studio can playout any resolution up to 65k x 65k. However, that realist
 The fix for this is to define the OpenGL rendering GPU inside the Nvidia driver, and set it to the primary GPU in the system via the Nvidia Control panel:\
 
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-07-16 145219.png" alt=""><figcaption><p>Setting the OpenGL rendering GPU to the primary GPU of the system (note, the screenshot shows onyl one GPU, but in a multi-GPU system, it would show all installed GPUs).</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (308).png" alt=""><figcaption><p>Setting the OpenGL rendering GPU to the primary GPU of the system.</p></figcaption></figure>
