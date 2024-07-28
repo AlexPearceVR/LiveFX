@@ -16,13 +16,15 @@ If you have a shared media server, you should be able to use to add new media to
 
 This way, you can add media to each machine in the same folder and Live FX will know where to look for it. Also this way&#x20;
 
-### Create the initial project
+### Create the initial Project
 
-First let's create the initial project that we are going to sync. Let's first create it on the Master machine. I will create a project called "00\_SharedProject" and use the default settings for now.&#x20;
+First, let's create the initial project that we are going to sync. Let's first create it on the Master machine. I will create a project called "00\_SharedProject" and use the default settings for now.&#x20;
 
-Now let's go to the client machine and create a project with the exact same name.&#x20;
+Now let's go to the client machine and create a project with the exact same name.
 
+On the client machine(s), you will want to turn off auto-save. You can do this by going to the User Settings and under preferences, change Save to manual.&#x20;
 
+<figure><img src="../.gitbook/assets/image (309).png" alt=""><figcaption></figcaption></figure>
 
 ### Shared folder for the Media
 
@@ -76,7 +78,7 @@ Now let's go to the client machine and create a project with the exact same name
     <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 
-10. Select an unused Drive Letter, like V.\
+10. Select an unused Drive Letter, like M.\
 
 
     <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
@@ -88,7 +90,36 @@ Now let's go to the client machine and create a project with the exact same name
 12. Keep reconnect at sign-in and press Finish.&#x20;
 13. Now you can access this folder from your master machine, and anything you add to it will automatically be put into the folder.&#x20;
 
+### Shared folder for Project.&#x20;
 
+Using the same method as above, let's go to the client machine's Project folder and create a shared drive for that.&#x20;
 
+Assimilate stores it's project files here: C:\ProgramData\Assimilator\Project\\
 
+Share the "00\_SharedProject" folder. I used drive letter "R", but you can use any drive letter you want.&#x20;
+
+### Use FreeFileSync to push new changes
+
+Go to [https://freefilesync.org/](https://freefilesync.org/), download and install FreeFileSync. After it is installed, you may need to manually go to Program Files and find it to open it.&#x20;
+
+We're going to set this up so that if we add new media to our master machine, we can check for changes and then push any new content to the client machine(s).&#x20;
+
+On the left side, let's browse to the location where we will store the media for the master computer.\
+\
+On the right side, let's browse to the shared drive, in my case, that is M.\
+\
+Let's also change the Sync Settings so that it only Mirrors from the Master to the Client machine.\
+\
+We can do that by clicking on the area next to the green settings cog, and changing it to Mirror.
+
+<figure><img src="../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
+
+Now let's save this configuration by going to the save or save as option on the left.&#x20;
+
+<figure><img src="../.gitbook/assets/image (311).png" alt=""><figcaption></figcaption></figure>
+
+To check for changes, press the compare button. To push these changes, press the Synchronize button.\
+\*If pushing project changes, you may need to close Assimilate on one or both machines, but Media you should be able to push at any time.&#x20;
+
+<figure><img src="../.gitbook/assets/image (312).png" alt=""><figcaption></figcaption></figure>
 

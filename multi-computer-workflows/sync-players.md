@@ -4,6 +4,8 @@ Sync Players is a way to synchronize two or more machines playhead position. The
 
 This can be great for synchronized content but also can be used creatively. For example, you could have a completely different piece of content that plays back on your client machine.&#x20;
 
+Sync Players works regardless of whether or not you setup a local shared storage.&#x20;
+
 ## Setup
 
 1. Make sure the machines are on the same network and can ping each other.
