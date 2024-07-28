@@ -4,7 +4,7 @@ First, you'll need to make sure your computer with Live FX is connected to the s
 
 1.  Open Assimilate and click on the **Live Looks** button on the left.&#x20;
 
-    <figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 2.  Enter the Setup menu on the left.
 
     <figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
@@ -22,7 +22,7 @@ First, you'll need to make sure your computer with Live FX is connected to the s
     :bulb:You may need to restart Assimilate after you set up the network correctly.\
 
 
-    <figure><img src="../.gitbook/assets/image (11) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (11) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 8. **Save** the text file.
 9.  You may need to click **Re-Scan** for it to find the new config.\
 

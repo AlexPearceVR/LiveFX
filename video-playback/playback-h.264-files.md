@@ -9,5 +9,5 @@ By default, h.264 files may have issues when playing back in Assimilate, but the
 5. Make sure it is turned on and enter 0 as the maximum number of decoders.
 6. Restart Assimilate
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 

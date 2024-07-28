@@ -39,34 +39,34 @@ If you go out the GPU, ensure that no Video-IO devices are enabled because if th
 1.  From the Construct, open the Projection Setup\
 
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 2.  Click on Edit.\
 
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 3.  If there is not a wall, Click Add, to add a new wall.\
 
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 4.  If there is no wall here, press **Create**.\
 
 
-    <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 5.  Fill in the Wall details, for example, how many LED panels for your Columns and Rows, and the tile size (many LED panels are .5m x .5m Tile Size). Also fill in the Tile Resolution.&#x20;
 
-    <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     If you filled in all the information correctly, the Wall Size and the Resolution should match what your total wall is.&#x20;
 
-    <figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 6.  Make sure you fill in your Wall Curvature as well. If you don't know your wall curvature, but instead know your tile degrees, you can use the free tool [ObjGen](https://objgen.makkbe.net/) to calculate the Wall Curvature, by entering your Tile Angle and looking at the Curvature. You can also just use this tool to create an OBJ instead if you want. \
 
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 7. Create as many walls and ceilings as you need to.&#x20;
 8.  Click on the **Mapper** tab, then click on **Map.** \
     To map your setup correctly, it's best to have your LED processor mapping up on a monitor nearby, and you need to match however the LED processor is mapped (or you could set up Live FX and then re-map in the LED processor). \
@@ -80,19 +80,19 @@ If you go out the GPU, ensure that no Video-IO devices are enabled because if th
     :bulb:One tip is you can click into Offset X and then use the arrow keys to move one pixel at a time.\
 
 
-    <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
-9.  Make sure the wall you want to use is set to **ACTIVE.** You can also use the <img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt="" data-size="line">Eyeball icon to Preview the footage on the wall (once you are in a shot). \
+9.  Make sure the wall you want to use is set to **ACTIVE.** You can also use the <img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">Eyeball icon to Preview the footage on the wall (once you are in a shot). \
     &#x20;
 
-    <figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 4. Projection Setup
 
 Once you've set up your wall, you can use the Projection Setup to set up your shots.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -10,9 +10,9 @@ To do this, go to System Settings > Displays.
 
 On older operating systems, you need to hold down the Option key and click on Scaled to get the advanced options to change the refresh rate. Select 48 Hertz (if you are working and sending a 24fps signal).&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 In newer operating systems, you do not need to hold down the option key to see refresh rate options.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -43,12 +43,12 @@ If you are trying to connect to a network, you can use the ping command to troub
     If the ping is successful, it will show a number and **bytes** from the address like in this screenshot:\
 
 
-    <figure><img src="../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (13) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     If the ping is unsuccessful, it will say **Request timeout**.\
 
 
-    <figure><img src="../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (14) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 3. To stop the ping, close the terminal window or press Control+C (Mac and PC).&#x20;

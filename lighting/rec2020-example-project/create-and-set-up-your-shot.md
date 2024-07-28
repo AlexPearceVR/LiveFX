@@ -2,9 +2,9 @@
 
 In the Construct, Click on Filler and Select Black.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Drop the Black Frame on the Timeline.
 
@@ -12,7 +12,7 @@ Drop the Black Frame on the Timeline.
 
 Select Import Clips and import whatever media you will be using in your shot, then arrange it so that all the media is above the Black frame, as a "Version".
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -20,7 +20,7 @@ Select Import Clips and import whatever media you will be using in your shot, th
 
 Click on the bottom of the Black frame, where it says "Black", here you can re-name your shot.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Now double-click on the Black frame to enter the shot.&#x20;
 
@@ -28,25 +28,25 @@ Now double-click on the Black frame to enter the shot.&#x20;
 
 Go to the Media tab and make sure that the settings are Rec2020, Gamma 2.4
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Change the shot length
 
 Go to the Live FX Menu, change the Shot Length Out to match your media or however long you want it to be. You can also change the In if you want to start later in your shot. You can change this later if you are not sure yet.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Bring in your media
 
 On the right side, under the Versions tab, click on one of your video files and drag it into the viewport.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Scale and re-position your clip
 
 If you want to scale your video, you can hold down Shift and grab the orange frame then drag right or left to scale up or down. Click and drag to move the video wherever you want it.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Covert the video to Rec2020
 
