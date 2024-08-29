@@ -22,10 +22,12 @@ Set Data Output to [Free D](../camera-tracking/camera-trackers/freed.md), UDP an
 
 In Live FX, navigate to the Live Links menu.
 
-Enable Free D.&#x20;
+<figure><img src="../.gitbook/assets/Screenshot 2024-08-29 at 7.16.09 PM.png" alt=""><figcaption></figcaption></figure>
+
+Activate Free D.&#x20;
 
 Select the correct network interface. Set your port to 4000.&#x20;
 
 Click apply.&#x20;
 
-Your tracking is now applied.
+Your tracking is now applied and will be visible in the Live Links menu.
