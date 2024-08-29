@@ -1,6 +1,6 @@
 # Mark Roberts Motion Control (MRMC)
 
-[Camera Tracking](../camera-tracking/) is supported via [Free D ](../camera-tracking/camera-trackers/freed.md)protocol with [MRMC Robots ](https://www.mrmoco.com/motion-control/)through [Flair](https://www.mrmoco.com/motion-control/flair/).&#x20;
+[Camera Tracking](../camera-tracking/) is supported via [Free D ](../camera-tracking/camera-trackers/free-d.md)protocol with [MRMC Robots ](https://www.mrmoco.com/motion-control/)through [Flair](https://www.mrmoco.com/motion-control/flair/).&#x20;
 
 Supported MRMC Robots; [Bolt X](https://www.mrmoco.com/motion-control/bolt-x/), [Bolt,](https://www.mrmoco.com/motion-control/bolt/) [Bolt Jr+](https://www.mrmoco.com/motion-control/bolt-jr-plus/)
 
@@ -18,7 +18,7 @@ Setups / External Devices
 
 External Devices Setup
 
-Set Data Output to [Free D](../camera-tracking/camera-trackers/freed.md), UDP and set a Static IP address. Set the Port Number to **4000**. Click apply and Save.
+Set Data Output to [Free D](../camera-tracking/camera-trackers/free-d.md), UDP and set a Static IP address. Set the Port Number to **4000**. Click apply and Save.
 
 In Live FX, navigate to the Live Links menu.
 

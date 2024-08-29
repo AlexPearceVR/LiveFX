@@ -46,7 +46,7 @@
     * [Stype](camera-tracking/camera-trackers/stype.md)
     * [Optitrack](camera-tracking/camera-trackers/optitrack.md)
     * [HTC Mars Camtrack](camera-tracking/camera-trackers/htc-mars-camtrack.md)
-    * [FreeD](camera-tracking/camera-trackers/freed.md)
+    * [Free D](camera-tracking/camera-trackers/free-d.md)
     * [iPhone Apps](camera-tracking/camera-trackers/iphone-apps.md)
   * [How to apply camera tracking to a layer, image, or mask](camera-tracking/how-to-apply-camera-tracking-to-a-layer-image-or-mask.md)
   * [How to manually adjust camera tracking speed and delay](camera-tracking/how-to-manually-adjust-camera-tracking-speed-and-delay.md)
