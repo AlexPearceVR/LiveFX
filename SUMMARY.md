@@ -44,7 +44,7 @@
     * [ZEISS CinCraft Scenario](camera-tracking/camera-trackers/zeiss-cincraft-scenario.md)
     * [MoSys](camera-tracking/camera-trackers/mosys.md)
     * [Stype](camera-tracking/camera-trackers/stype.md)
-    * [Optitrack](camera-tracking/camera-trackers/optitrack.md)
+    * [OptiTrack](camera-tracking/camera-trackers/optitrack.md)
     * [HTC Mars Camtrack](camera-tracking/camera-trackers/htc-mars-camtrack.md)
     * [Free D](camera-tracking/camera-trackers/free-d.md)
     * [iPhone Apps](camera-tracking/camera-trackers/iphone-apps.md)
