@@ -121,6 +121,7 @@
   * [How to Purchase and Install Live Looks](live-looks-live-grade-led-walls/how-to-purchase-and-install-live-looks.md)
   * [How to set up Live Looks with Brompton](live-looks-live-grade-led-walls/how-to-set-up-live-looks-with-brompton.md)
   * [Live Grading with Live Looks](live-looks-live-grade-led-walls/live-grading-with-live-looks.md)
+* [Motion Control](motion-control.md)
 * [🗃️ Compositing](compositing/README.md)
   * [Working with the Alpha Channel](compositing/working-with-the-alpha-channel.md)
   * [Re-Map EXR channels](compositing/re-map-exr-channels.md)
