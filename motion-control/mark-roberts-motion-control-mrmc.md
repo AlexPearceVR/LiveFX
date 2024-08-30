@@ -4,7 +4,7 @@
 
 Supported MRMC Robots; [Bolt X](https://www.mrmoco.com/motion-control/bolt-x/), [Bolt,](https://www.mrmoco.com/motion-control/bolt/) [Bolt Jr+](https://www.mrmoco.com/motion-control/bolt-jr-plus/)
 
-Flair sends tracking data out at 50Hz. If your productions frame-rate is not 50fps (24,23.98, 25, 29.97, 30, 48, 59.94 or 60fps) you will need to interpolate the data before Live FX receives the data. If you do not interpolate the tracking data to your productions frame-rate. The tracking will jitter. Contact MRMC the best interpolation settings, as each robot is different. Additionally, we recommend using the MRMC Flair Virtual Production Synch Box to simply the workflow.
+Flair sends tracking data out at 50Hz. If your productions frame-rate is not 50fps (24, 23.98, 25, 29.97, 30, 48, 59.94 or 60fps) you will need to interpolate the data before Live FX receives the data. If you do not interpolate the tracking data to your productions frame-rate, the tracking will jitter. Contact MRMC the best interpolation settings, as each robot is different. Additionally, we recommend using the MRMC Flair Virtual Production Synch Box to simply the workflow.
 
 Flair Setup
 
