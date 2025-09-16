@@ -39,6 +39,8 @@
   * [Import Media and Maintain Folder Structure](video-playback/import-media-and-maintain-folder-structure.md)
   * [Speed up and Slow Down Footage](video-playback/speed-up-and-slow-down-footage/README.md)
     * [Re-Time footage with Projection Mapping](video-playback/speed-up-and-slow-down-footage/re-time-footage-with-projection-mapping.md)
+    * [Re-Time Footage on a Canvas](video-playback/speed-up-and-slow-down-footage/re-time-footage-on-a-canvas.md)
+    * [Re-Time Footage on a File](video-playback/speed-up-and-slow-down-footage/re-time-footage-on-a-file.md)
 * [🎥 Camera Tracking](camera-tracking/README.md)
   * [Camera and Lens Calibration](camera-tracking/camera-and-lens-calibration.md)
   * [Camera Trackers](camera-tracking/camera-trackers/README.md)
