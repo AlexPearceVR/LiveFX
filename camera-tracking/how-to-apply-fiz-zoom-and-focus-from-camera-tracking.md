@@ -16,7 +16,7 @@ Let's look at how to enable Focus and Zoom.
 3. Click on Focal Length **(Zoom)** and Focus Distance **(Focus)**
 4.  If you have a camera tracker enabled, click on **Live Source** and change it to the appropriate parameter from your tracker. \
     \
-    _In this screenshot, I do not have any tracker enabled, so I don't have a Live Source to change it to._\
+    &#xNAN;_&#x49;n this screenshot, I do not have any tracker enabled, so I don't have a Live Source to change it to._\
 
 
     <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

@@ -15,11 +15,11 @@ Here is a complete video walkthrough:
 ## 1. Download Example Packaged Project
 
 Here is a demo exe file:\
-[https://www.dropbox.com/scl/fi/tfnwx5b8hkuy4cavxd4ku/WaterTower\_v2.zip?rlkey=fshkrjb1sw8h2c5a8sjvoj4if\&dl=0](https://www.dropbox.com/scl/fi/tfnwx5b8hkuy4cavxd4ku/WaterTower\_v2.zip?rlkey=fshkrjb1sw8h2c5a8sjvoj4if\&dl=0)
+[https://www.dropbox.com/scl/fi/tfnwx5b8hkuy4cavxd4ku/WaterTower\_v2.zip?rlkey=fshkrjb1sw8h2c5a8sjvoj4if\&dl=0](https://www.dropbox.com/scl/fi/tfnwx5b8hkuy4cavxd4ku/WaterTower_v2.zip?rlkey=fshkrjb1sw8h2c5a8sjvoj4if\&dl=0)
 
 Download the .zip folder above.&#x20;
 
-![](https://lh7-us.googleusercontent.com/GhJiYiWhsh3NkATbQJxjsJ7FOYUsx\_Z5yO55Bu9zAy6vXMl06xBIYd0PF2r8LNrn7GDk9p8koO21K0ttdGDa-bTchBJ4e0xyVDptlf3t5l438qaNJfGQ1TbezJB7wIUqVrxmQEcv\_2JqtPss004mto4)![](https://lh7-us.googleusercontent.com/kGL5Y0PYLE9o4NThdA28x058K-6n8-RDdvMsrSKKzuz0VAyOJzJlaMfIyLarDqhzKxHxjWCH6a0\_kRZo8MbDInq6S7gT99YW\_5NrKqO0rRAie00F9SzXBWpdjE0lmTPYSrecMpQqPprCoPbSObX5SR8)
+![](https://lh7-us.googleusercontent.com/GhJiYiWhsh3NkATbQJxjsJ7FOYUsx_Z5yO55Bu9zAy6vXMl06xBIYd0PF2r8LNrn7GDk9p8koO21K0ttdGDa-bTchBJ4e0xyVDptlf3t5l438qaNJfGQ1TbezJB7wIUqVrxmQEcv_2JqtPss004mto4)![](https://lh7-us.googleusercontent.com/kGL5Y0PYLE9o4NThdA28x058K-6n8-RDdvMsrSKKzuz0VAyOJzJlaMfIyLarDqhzKxHxjWCH6a0_kRZo8MbDInq6S7gT99YW_5NrKqO0rRAie00F9SzXBWpdjE0lmTPYSrecMpQqPprCoPbSObX5SR8)
 
 {% hint style="warning" %}
 EXTRACT WITH A TOOL LIKE 7 ZIP! The default Windows tool sometimes gives an error when trying to unzip large files.
@@ -40,31 +40,31 @@ Even if there is a shortcut provided, you will likely need to make your own shor
 
 1. Right-click on the BH\_Project.exe, and go to **Create shortcut.**
 
-![](https://lh7-us.googleusercontent.com/7B4ZwGp5A50dc6l2kKjrRHI8DcbG0Rxi6ZjoG4nVnSNrVIiKRVIobHQ1pRueV\_7\_0d9wBvDBrTzpT6D2ikjUy4001anxzxJr-QlwiS1X7zE\_ObNG7stH-3jTttScZCL9EKkjICOCK9-AAEZ8hT8rJSk)
+![](https://lh7-us.googleusercontent.com/7B4ZwGp5A50dc6l2kKjrRHI8DcbG0Rxi6ZjoG4nVnSNrVIiKRVIobHQ1pRueV_7_0d9wBvDBrTzpT6D2ikjUy4001anxzxJr-QlwiS1X7zE_ObNG7stH-3jTttScZCL9EKkjICOCK9-AAEZ8hT8rJSk)
 
 I’ve renamed the shortcut to “**OnScreen1920x1080**”
 
 2. Now right-click and go to properties on the shortcut.
 
-![](https://lh7-us.googleusercontent.com/Q7EVFiQIzghzeuWfx\_-2LFPd\_wL5nPFTrjUKW8OVFCYwaTtp8UZpGKqXk0CA2jqTJPqyxPNjw0gIKoc6Q\_TDM-AiNXXNLmO7xgR45on48x53irZughNvgh8qb8oKD-d7WogGLVgY1dPHniFKbYcc0Bk)
+![](https://lh7-us.googleusercontent.com/Q7EVFiQIzghzeuWfx_-2LFPd_wL5nPFTrjUKW8OVFCYwaTtp8UZpGKqXk0CA2jqTJPqyxPNjw0gIKoc6Q_TDM-AiNXXNLmO7xgR45on48x53irZughNvgh8qb8oKD-d7WogGLVgY1dPHniFKbYcc0Bk)
 
 3. Paste these in the **target** field, after “...exe”, with one space after the end (with or without -RenderOffscreen, if you want to be able to see it or not).\
    \
    Text to copy and paste:\
-   **-RenderOffscreen -ForceRes -ResX=1920 -ResY=1080 -RCWebControlEnable -RCWebInterfaceEnable -t.MaxFPS = 23.976**\
+   &#xNAN;**-RenderOffscreen -ForceRes -ResX=1920 -ResY=1080 -RCWebControlEnable -RCWebInterfaceEnable -t.MaxFPS = 23.976**\
    \
    Should look like this:\
    ![](https://lh7-us.googleusercontent.com/wHpA5cBq7rQlfq8DxcrDcz8zVKW-R6VQQKYiTSN2JhrdwtLXvQjd87HwovQl8wSFlnNn--dcUcK0pC2SMBDVNMfugLMRWW87aP7y4hWG8aOiK37v2mJ9j9XR2ilML2JN59fQc3ndxXdNCousI9RYClw)
 4. If you are using **projection mapping**, you should use a resolution that is the same aspect of your camera and what you want to render, for example, if you want to project 1920x1080 you'd use:\
-   \-ForceRes -ResX=1920 -ResY=1080\
+   -ForceRes -ResX=1920 -ResY=1080\
    \
    If you are **NOT using projection mapping**, you should enter the resolution of your LED wall, or your monitor, as you want. So if your wall is 2560x1320, you’d use: \
-   \-ForceRes -ResX=2560 -ResY=1320\
+   -ForceRes -ResX=2560 -ResY=1320\
    \
    And you would likely want to [change your timeline resolution](../getting-started/the-basics/change-shot-framerate-and-resolution.md) to match this setting as well. \
    \
    Whatever frame rate you are shooting in, your timeline should match and you should set that in your console variables, for example if you are shooting in 59.94, you would use:\
-   \-t.MaxFPS = 59.94
+   -t.MaxFPS = 59.94
 
 {% hint style="danger" %}
 IF YOU ARE RENDERING OFFSCREEN, YOU WILL NOT SEE THE EXPERIENCE LAUNCH, PRESS **CONTROL+ALT+DELETE** TO SEE IT AND TO CLOSE IT.

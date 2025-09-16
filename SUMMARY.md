@@ -37,6 +37,8 @@
   * [Video-IO Settings](video-playback/video-io-settings.md)
   * [Playback h.264 files](video-playback/playback-h.264-files.md)
   * [Import Media and Maintain Folder Structure](video-playback/import-media-and-maintain-folder-structure.md)
+  * [Speed up and Slow Down Footage](video-playback/speed-up-and-slow-down-footage/README.md)
+    * [Re-Time footage with Projection Mapping](video-playback/speed-up-and-slow-down-footage/re-time-footage-with-projection-mapping.md)
 * [🎥 Camera Tracking](camera-tracking/README.md)
   * [Camera and Lens Calibration](camera-tracking/camera-and-lens-calibration.md)
   * [Camera Trackers](camera-tracking/camera-trackers/README.md)

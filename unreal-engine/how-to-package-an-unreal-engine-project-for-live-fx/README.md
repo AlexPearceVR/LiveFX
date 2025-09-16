@@ -26,7 +26,7 @@ EP01 Setting Up Visual Studio 2022 for Unreal Engine 5:\
 [https://www.youtube.com/watch?v=HLwwpLYvY5Y](https://www.youtube.com/watch?v=HLwwpLYvY5Y)\
 \
 How to install Android SDK Platform Tools (ADB & FASTBOOT) on Windows 11 / Windows 10:\
-[https://www.youtube.com/watch?v=OSp5\_wBAVyQ](https://www.youtube.com/watch?v=OSp5\_wBAVyQ)
+[https://www.youtube.com/watch?v=OSp5\_wBAVyQ](https://www.youtube.com/watch?v=OSp5_wBAVyQ)
 
 ### Package Project
 
@@ -61,7 +61,7 @@ For web remote to work correctly, you need to copy over a specific folder and cr
 3. Create a new folder here called "**VirtualProduction"**\
    **\*Make sure to spell it exactly like VirtualProduction with caps and no space in between.**
 4. Inside VirtualProduction, create another folder called "**RemoteControlWebInterface**"\
-   **\*Make sure to spell it exactly like RemoteControlWebInterface with caps and no spaces in between.**
+   &#xNAN;**\*Make sure to spell it exactly like RemoteControlWebInterface with caps and no spaces in between.**
 5. **Paste** the **WebApp** folder here.&#x20;
 6. Check and make sure your paths and folders look correct, if done correctly it should look like this:
 
