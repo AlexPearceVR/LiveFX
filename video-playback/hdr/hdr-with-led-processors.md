@@ -21,7 +21,7 @@ The shortcut to toggle HDR on and off is Windows+Shift+B.
    **Output Dynamic Range: Full**\
 
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 \*If you cannot change these settings, or you get weird artifacts when trying to change, your cables or HDMI adapters may not be good enough to do proper HDR 10 bit.
 
@@ -39,7 +39,7 @@ Now with the same settings everywhere else, by changing the settings to HDR(64-B
 
 3. Make sure your media is flagged correctly, if using an HDRi, sRGB Scene Linear for example
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -47,10 +47,10 @@ Now with the same settings everywhere else, by changing the settings to HDR(64-B
    Rec 709 (or 2020 if you're going to 2020)\
    Set to PQ or HLG (Depending on your workflow) \
    ![](<../../.gitbook/assets/image (10).png>)\
-   \
-   \
 
-5. You will likely need to bring down the gamma to around .5 for the content look correct, and many need to gain up.\
+5. In your LED Processor, you need to override the input signal and force it to do PQ or HLG (depending on your workflow and depending on what you set in Live FX). \
+
+6. You will likely need to bring down the gamma to around .5 for the content look correct, and many need to gain up.\
    \
    In this example, the background should look very close to black, not lifted purple. By adjusting the gamma by .5, this gets us back to the appropriate setting. This applies to both HDR and SDR content. \
    ![](<../../.gitbook/assets/image (7).png>)![](<../../.gitbook/assets/image (8).png>)\

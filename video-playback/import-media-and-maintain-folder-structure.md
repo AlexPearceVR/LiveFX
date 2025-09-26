@@ -14,17 +14,17 @@ If you are using[ h.264 media, make sure to set up Assimilate to decode it prope
 2.  Select "Select Folder" and "Create New Timeline" and select the depth (10 will look 10 folders deep for all media).\
 
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 3. Under the Clip Import Options, for the Timeline use either "New From Foldername" to create a new timeline with the selected folder as the timeline name. \
    Or select Timeline:Current to import the clips into the current timeline.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 All the files are now imported to one long timeline.&#x20;
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Import each subfolder as it's own Timeline
 
@@ -32,13 +32,13 @@ All the files are now imported to one long timeline.&#x20;
 2.  Select "Select Folder" and "Create New Timeline" and select the depth (10 will look 10 folders deep for all media).\
 
 
-    <figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 3.  This time, in the Clip Import Options, select Timeline: New Per Subfolder\
 
 
-    <figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     This will create a new timeline for each subfolder, for example, there is a timeline for the folder 001\_Fire, a timeline for the folder 002\_Water, etc. \
 

@@ -38,7 +38,7 @@ On the client machine(s), you will want to turn off auto-save. You can do this b
     <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 3.  &#x20; From the Live FX start menu, go to your project settings,&#x20;
 
-    <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     Now change your Media Path to be the new folder you created. \
 
