@@ -44,7 +44,7 @@
   * [HDR](video-playback/hdr/README.md)
     * [HDR with Windows Consumer Monitor](video-playback/hdr/hdr-with-windows-consumer-monitor.md)
     * [HDR with LED Processors](video-playback/hdr/hdr-with-led-processors.md)
-    * [Apple Displays](video-playback/hdr/apple-displays.md)
+    * [HDR with Apple Displays](video-playback/hdr/hdr-with-apple-displays.md)
     * [Windows Consumer Monitor Force HDR Hack](video-playback/hdr/windows-consumer-monitor-force-hdr-hack.md)
 * [🎥 Camera Tracking](camera-tracking/README.md)
   * [Camera and Lens Calibration](camera-tracking/camera-and-lens-calibration.md)
