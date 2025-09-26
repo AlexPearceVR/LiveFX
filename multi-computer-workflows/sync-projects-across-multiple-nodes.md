@@ -35,27 +35,27 @@ On the client machine(s), you will want to turn off auto-save. You can do this b
     \*it should be a fast nvme or ssd drive if you plan to playback high-resolution media.\
 
 
-    <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 3.  &#x20; From the Live FX start menu, go to your project settings,&#x20;
 
-    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
     Now change your Media Path to be the new folder you created. \
 
 
-    <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 4.  In File Explorer, navigate to the Media folder, right-click the folder, go to Properties, then go to the Sharing Tab and click on "Share".\
     \
     \*You must be the admin of both machines and you may need both machines to have the same Username and login credentials.\
 
 
-    <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 5.  If you don't already have an "Everyone" under the name, click on the dropdown and select "Everyone".\
 
 
-    <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 6. With Everyone selected, click on share.
@@ -75,7 +75,7 @@ On the client machine(s), you will want to turn off auto-save. You can do this b
     \
 
 
-    <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 10. Select an unused Drive Letter, like M.\

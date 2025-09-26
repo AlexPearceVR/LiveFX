@@ -12,17 +12,17 @@ Sync Players works regardless of whether or not you setup a local shared storage
 2.  On the Master machine, enter the shot you want to use and go at the top-right of the viewport. Click on Tools>Sync Players.\
 
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 3.  Click on Start Master Mode and it will turn green. \
 
 
-    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 4.  On the Client computer, go to Tools>Sync Players, select the computer that you started the server on and press Start Client Mode.\
 
 
-    <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 

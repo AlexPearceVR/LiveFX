@@ -14,5 +14,5 @@ On older operating systems, you need to hold down the Option key and click on Sc
 
 In newer operating systems, you do not need to hold down the option key to see refresh rate options.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
