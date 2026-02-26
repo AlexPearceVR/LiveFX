@@ -4,7 +4,7 @@
 
 When you first start the Assimilate Product Suite software or when an existing license expires, you are presented with the License dialog to activate your license key(s).&#x20;
 
-![](http://www.assimilatesupport.com/akb/Uploads/Images/Manual/Live\_Looks/01-Installation,%20Licensing%20and%20Startup/001\_License\_Dialog.png)
+![](http://www.assimilatesupport.com/akb/Uploads/Images/Manual/Live_Looks/01-Installation,%20Licensing%20and%20Startup/001_License_Dialog.png)
 
 As of version 9.2, you can activate multiple license keys at once to combine products. Once activated, the license (s) are tied to the system and cannot be activated on another system. However, also as of version 9.2, you can deactivate a license. The procedure for this is described later in this article.
 
@@ -30,9 +30,9 @@ If you bought the license key on the online store then you are automatically a l
 
 If you are a license administrator you will find all the license keys you own listed on the MyAssimilate site. Find the license key in question and click the corresponding gear icon at the end of the table row. This opens the **Update License** panel. There you click the **(Un)lock** button to _unlock_ or _re-lock_ a license key.
 
-![](http://www.assimilatesupport.com/akb/Uploads/Images/Manual/Getting\_Started/Licensing\_software/license.png)
+![](http://www.assimilatesupport.com/akb/Uploads/Images/Manual/Getting_Started/Licensing_software/license.png)
 
-![](http://www.assimilatesupport.com/akb/Uploads/Images/Manual/Getting\_Started/Licensing\_software/wrench.png)
+![](http://www.assimilatesupport.com/akb/Uploads/Images/Manual/Getting_Started/Licensing_software/wrench.png)
 
 Note that if a license is un-locked a little un-locked icon is showing in the license key table.
 
@@ -48,7 +48,7 @@ For any licensing questions or issues, please read through this part of the manu
 
 To update an existing license file, open the licensing panel:
 
-* In SCRATCH / SCRATCH VR, use the **License** button in the Startup screen in the lower right section.
+* In SCRATCH, use the **License** button in the Startup screen in the lower right section.
 * In Play Pro, use the **License** button in the Construct screen in the lower right corner.
 * In Live Looks / Live Assist (when used as a stand-alone tool), use the **License** button in the Setup pnale lower right corner.
 
@@ -62,7 +62,7 @@ There are cases in which activation fails and an error message is displayed.&#x2
 
 * **Key in use**. The license key has been used to activate another system or the system configuration has changed (new hardware such as network adapter or hard disk) that the license has become invalid.
 * **Invalid key**. You entered a key that is not recognized as a valid key - possibly by entering a wrong character. Check the license key carefully.
-* **Activation failed - code X**. Where X is a number: 0 indicates that SCRATCH does not have a working internet connection - contact your system administrator or try to connect to the web using the standard browser on the system. Other codes are described here [http return codes](http://en.wikipedia.org/wiki/List\_of\_HTTP\_status\_codes).&#x20;
+* **Activation failed - code X**. Where X is a number: 0 indicates that SCRATCH does not have a working internet connection - contact your system administrator or try to connect to the web using the standard browser on the system. Other codes are described here [http return codes](http://en.wikipedia.org/wiki/List_of_HTTP_status_codes).&#x20;
 * **Subscription expired or is invalid**. Sell explanatory.
 * **Error activating multiple trial keys**. You are not allowed to activate multiple trial licenses on a single system. Contact ASSIMILATE Sales for a solution.
 * **E666**.You get this error when trying and failing to activate a key more than three times in a row. Wait 30 minutes and try again to see the real error.

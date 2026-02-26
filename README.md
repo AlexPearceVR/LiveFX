@@ -39,4 +39,4 @@ If you're just discovering Live FX, we recommend jumping straight into the [Quic
 
 Here are [two QR Codes that link to this documentation](https://www.dropbox.com/scl/fo/ki8otwkk4za5w71sr5jv8/h?rlkey=illcx4k2dm6czrh14gi81i8wv\&dl=0), in case you want to print them up and keep them at your Studio. \
 \
-![](.gitbook/assets/LiveFXDocumentation_QR_Black.png)\
+![](.gitbook/assets/LiveFXDocumentation_QR_Black.png)<br>
