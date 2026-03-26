@@ -32,35 +32,30 @@ On the client machine(s), you will want to turn off auto-save. You can do this b
 2.  On the client machine, let's create a shared folder for wherever you are going to store your media. \
     \
     For now, I will do this in the same location as my project, but this can be anywhere you want to store the media. I will name this folder "Media". \
-    \*it should be a fast nvme or ssd drive if you plan to playback high-resolution media.\
-
+    \*it should be a fast nvme or ssd drive if you plan to playback high-resolution media.<br>
 
     <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 3.  &#x20; From the Live FX start menu, go to your project settings,&#x20;
 
     <figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-    Now change your Media Path to be the new folder you created. \
-
+    Now change your Media Path to be the new folder you created. <br>
 
     <figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 4.  In File Explorer, navigate to the Media folder, right-click the folder, go to Properties, then go to the Sharing Tab and click on "Share".\
     \
-    \*You must be the admin of both machines and you may need both machines to have the same Username and login credentials.\
-
+    \*You must be the admin of both machines and you may need both machines to have the same Username and login credentials.<br>
 
     <figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 
-5.  If you don't already have an "Everyone" under the name, click on the dropdown and select "Everyone".\
-
+5.  If you don't already have an "Everyone" under the name, click on the dropdown and select "Everyone".<br>
 
     <figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 6. With Everyone selected, click on share.
-7.  Find the path to this folder by right-clicking on the folder and going to properties, then the share tab again. Here it will say Network Path: and give you the path. Notice that "Media" is left out, you will have to add "\Media" to the end of this path. \
-
+7.  Find the path to this folder by right-clicking on the folder and going to properties, then the share tab again. Here it will say Network Path: and give you the path. Notice that "Media" is left out, you will have to add "\Media" to the end of this path. <br>
 
     <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
@@ -69,17 +64,14 @@ On the client machine(s), you will want to turn off auto-save. You can do this b
    \
    In the command prompt, type in ipconfig, then find the relavant IPv4 address. In this case, mine is 192.168.1.41. Save this for later. \
    \
-   ![](<../.gitbook/assets/image (14).png>)\
-
+   ![](<../.gitbook/assets/image (14).png>)<br>
 9.  Now on the Master Computer, from File Explorer, right-click on the "This PC" icon and press "Map Network Drive"\
-    \
-
+    <br>
 
     <figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 
-10. Select an unused Drive Letter, like M.\
-
+10. Select an unused Drive Letter, like M.<br>
 
     <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
